@@ -377,50 +377,6 @@ along with .  If not, see <http://www.gnu.org/licenses/>.
       </object>
     </child>
   </object>
-  <object class="GtkTreeStore" id="treestore1">
-    <columns>
-      <!-- column-name gchararray1 -->
-      <column type="gchararray"/>
-      <!-- column-name gchararray2 -->
-      <column type="gchararray"/>
-      <!-- column-name glong1 -->
-      <column type="glong"/>
-    </columns>
-  </object>
-  <object class="GtkTreeStore" id="treestore_react_results">
-    <columns>
-      <!-- column-name row -->
-      <column type="gint"/>
-      <!-- column-name id1 -->
-      <column type="gchararray"/>
-      <!-- column-name id2 -->
-      <column type="gchararray"/>
-      <!-- column-name ec_result -->
-      <column type="gchararray"/>
-      <!-- column-name name1 -->
-      <column type="gchararray"/>
-      <!-- column-name string1 -->
-      <column type="gchararray"/>
-      <!-- column-name name2 -->
-      <column type="gchararray"/>
-      <!-- column-name string2 -->
-      <column type="gchararray"/>
-      <!-- column-name diff_substrates -->
-      <column type="gchararray"/>
-      <!-- column-name diff_products -->
-      <column type="gchararray"/>
-      <!-- column-name approve -->
-      <column type="gboolean"/>
-      <!-- column-name string1_f -->
-      <column type="gchararray"/>
-      <!-- column-name string2_f -->
-      <column type="gchararray"/>
-      <!-- column-name bgcolor -->
-      <column type="gchararray"/>
-      <!-- column-name similarity -->
-      <column type="gfloat"/>
-    </columns>
-  </object>
   <object class="GtkWindow" id="window">
     <property name="visible">True</property>
     <property name="can_focus">False</property>
@@ -788,17 +744,6 @@ Model B</property>
                                             <property name="visible">True</property>
                                             <property name="can_focus">False</property>
                                             <child>
-                                              <object class="GtkLabel" id="label13">
-                                                <property name="visible">True</property>
-                                                <property name="can_focus">False</property>
-                                              </object>
-                                              <packing>
-                                                <property name="expand">True</property>
-                                                <property name="fill">True</property>
-                                                <property name="position">0</property>
-                                              </packing>
-                                            </child>
-                                            <child>
                                               <object class="GtkLabel" id="label70">
                                                 <property name="visible">True</property>
                                                 <property name="can_focus">False</property>
@@ -806,6 +751,17 @@ Model B</property>
                                               </object>
                                               <packing>
                                                 <property name="expand">False</property>
+                                                <property name="fill">True</property>
+                                                <property name="position">0</property>
+                                              </packing>
+                                            </child>
+                                            <child>
+                                              <object class="GtkLabel" id="label13">
+                                                <property name="visible">True</property>
+                                                <property name="can_focus">False</property>
+                                              </object>
+                                              <packing>
+                                                <property name="expand">True</property>
                                                 <property name="fill">True</property>
                                                 <property name="position">1</property>
                                               </packing>
@@ -3996,5 +3952,49 @@ Model B</property>
         </child>
       </object>
     </child>
+  </object>
+  <object class="GtkTreeStore" id="treestore1">
+    <columns>
+      <!-- column-name gchararray1 -->
+      <column type="gchararray"/>
+      <!-- column-name gchararray2 -->
+      <column type="gchararray"/>
+      <!-- column-name glong1 -->
+      <column type="glong"/>
+    </columns>
+  </object>
+  <object class="GtkTreeStore" id="treestore_react_results">
+    <columns>
+      <!-- column-name row -->
+      <column type="gint"/>
+      <!-- column-name id1 -->
+      <column type="gchararray"/>
+      <!-- column-name id2 -->
+      <column type="gchararray"/>
+      <!-- column-name ec_result -->
+      <column type="gchararray"/>
+      <!-- column-name name1 -->
+      <column type="gchararray"/>
+      <!-- column-name string1 -->
+      <column type="gchararray"/>
+      <!-- column-name name2 -->
+      <column type="gchararray"/>
+      <!-- column-name string2 -->
+      <column type="gchararray"/>
+      <!-- column-name diff_substrates -->
+      <column type="gchararray"/>
+      <!-- column-name diff_products -->
+      <column type="gchararray"/>
+      <!-- column-name approve -->
+      <column type="gboolean"/>
+      <!-- column-name string1_f -->
+      <column type="gchararray"/>
+      <!-- column-name string2_f -->
+      <column type="gchararray"/>
+      <!-- column-name bgcolor -->
+      <column type="gchararray"/>
+      <!-- column-name similarity -->
+      <column type="gfloat"/>
+    </columns>
   </object>
 </interface>
