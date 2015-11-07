@@ -1,0 +1,634 @@
+M_cid0000002_c + M_cid0000021_c + M_cid0000225_c -> M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0000033_c + 0.62 M_cid0000068_c_reconciled
+M_cid0000025_c + M_cid0000044_c <-> M_cid0000024_c_reconciled + M_cid0000033_c + 0.01 M_cid0000068_c_reconciled
+M_cid0000038_c <-> M_cid0000116_c_reconciled
+M_cid0000001_c + M_cid0000130_c -> M_cid0000013_c_reconciled + M_cid0000044_c_reconciled
+M_cid0000044_c + 2.41 M_cid0000068_c -> M_cid0000011_c_reconciled + M_cid0000086_c_reconciled
+M_cid0000013_c + M_cid0000105_c -> M_cid0000044_c_reconciled + 0.98 M_cid0000068_c_reconciled
+M_cid0000001_c + M_cid0000002_c + M_cid0000044_c + M_cid0000055_c -> M_cid0000012_c + M_cid0000019_c_reconciled + M_cid0000024_c_reconciled + 1.23 M_cid0000068_c_reconciled + M_cid0000130_c_reconciled
+M_cid0000025_c + M_cid0000086_c <-> M_cid0000024_c_reconciled + 1.42 M_cid0000068_c_reconciled + M_cid0000175_c
+M_cid0000773_c <-> M_cid0000019_c_reconciled + 0.01 M_cid0000068_c_reconciled + M_cid0000105_c
+2.97 M_cid0000068_c + M_cid0000743_c <-> M_cid0000053_c_reconciled + M_cid0000105_c
+M_cid0000041_c + M_cid0000044_c + M_cid0000113_c -> M_cid0000009_c + M_cid0000032_c_reconciled + 0.51 M_cid0000068_c_reconciled + M_cid0000773_c
+M_cid0000044_c + 0.36 M_cid0000068_c + M_cid0000143_c <-> M_cid0000009_c + M_cid0000310_c_reconciled
+M_cid0000002_c + M_cid0000044_c + M_cid0000241_c <-> M_cid0000012_c + M_cid0000019_c_reconciled + 1.21 M_cid0000068_c_reconciled + M_cid0000743_c_reconciled
+M_cid0000068_c + M_cid0000175_c -> M_cid0000011_c_reconciled + M_cid0000072_c_reconciled
+M_cid0000002_c + M_cid0000011_c + M_cid0000013_c <-> M_cid0000008_c_reconciled + 1.86 M_cid0000068_c_reconciled + M_cid0000143_c_reconciled
+M_cid0000001_c + M_cid0000053_c <-> M_cid0000065_c + 0.11 M_cid0000068_c_reconciled + M_cid0000074_c_reconciled
+M_cid0000006_c + M_cid0000128_c -> M_cid0000005_c_reconciled + 1.31 M_cid0000068_c_reconciled + M_cid0000783_c
+M_cid0000065_c + M_cid0000143_c <-> M_cid0000009_c + 2.52 M_cid0000068_c_reconciled + M_cid0000241_c_reconciled
+M_cid0000237_c + M_cid0000514_c <-> 1.03 M_cid0000068_c_reconciled + M_cid0000144_c + M_cid0000429_c
+M_cid0000002_c + M_cid0000086_c + M_cid0000345_c <-> M_cid0000012_c + M_cid0000019_c_reconciled + 1.63 M_cid0000068_c_reconciled + M_cid0000448_c
+M_cid0000002_c + M_cid0000013_c + M_cid0000044_c -> M_cid0000012_c + M_cid0000019_c_reconciled + 1.21 M_cid0000068_c_reconciled + M_cid0000130_c_reconciled
+M_cid0000001_c + M_cid0000034_c + M_cid0000125_c <-> M_cid0000056_c_reconciled + 0.01 M_cid0000068_c_reconciled + M_cid0000088_c
+M_cid0000023_c + M_cid0000056_c -> M_cid0000010_c_reconciled + M_cid0000471_c_reconciled
+M_cid0000001_c + 0.3 M_cid0000068_c + M_cid0000085_c -> M_cid0000013_c_reconciled + M_cid0000021_c_reconciled + M_cid0000223_c
+M_cid0000223_c + M_cid0000471_c -> M_cid0000030_c_reconciled + 0.31 M_cid0000068_c_reconciled + M_cid0000085_c_reconciled
+M_cid0000025_c + M_cid0000116_c <-> M_cid0000021_c_reconciled + 0.02 M_cid0000068_c_reconciled + M_cid0000173_c_reconciled
+M_cid0000002_c + 0.47 M_cid0000068_c + 2.0 M_cid0000116_c <-> M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0000473_c
+M_cid0000024_c <-> M_cid0000173_c_reconciled
+M_cid0000002_c + 0.48 M_cid0000068_c + M_cid0000173_c + M_cid0000533_c -> M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0000416_c
+M_cid0000002_c + M_cid0000038_c + 0.46 M_cid0000068_c + M_cid0000487_c -> M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0000533_c_reconciled
+M_cid0000006_c + 2.0 M_cid0000024_c -> M_cid0000005_c_reconciled + M_cid0000025_c + M_cid0000055_c_reconciled
+M_cid0000001_c + M_cid0000006_c + M_cid0000024_c -> M_cid0000005_c_reconciled + M_cid0000013_c_reconciled + M_cid0000025_c + 0.01 M_cid0000068_c_reconciled
+M_cid0000002_c + M_cid0000013_c + M_cid0000024_c -> M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0000055_c_reconciled + 0.51 M_cid0000068_c_reconciled
+M_cid0000001_c + M_cid0000002_c + M_cid0000055_c + M_cid0000445_c -> M_cid0000003_c + M_cid0000012_c + M_cid0000019_c_reconciled + M_cid0000024_c_reconciled + 1.22 M_cid0000068_c_reconciled
+M_cid0000001_c + 2.0 M_cid0000002_c + M_cid0000055_c + M_cid0000225_c -> 2.0 M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0000024_c_reconciled + 1.51 M_cid0000068_c_reconciled + M_cid0000143_c_reconciled
+M_cid0000012_c + M_cid0000024_c + 1.38 M_cid0000068_c + M_cid0000712_c <-> M_cid0000001_c_reconciled + M_cid0000055_c_reconciled + M_cid0000102_c
+M_cid0000001_c + M_cid0000002_c + M_cid0000055_c + M_cid0000395_c -> M_cid0000012_c + M_cid0000019_c_reconciled + M_cid0000024_c_reconciled + 2.21 M_cid0000068_c_reconciled + M_cid0000126_c_reconciled
+M_cid0000056_c + 0.98 M_cid0000068_c -> M_cid0000013_c_reconciled + M_cid0000021_c_reconciled
+M_cid0000002_c + M_cid0000044_c + 0.19 M_cid0000068_c <-> M_cid0000008_c_reconciled + M_cid0000710_c_reconciled
+M_cid0000001_c + 0.27 M_cid0000068_c + M_cid0000474_c <-> M_cid0000009_c + M_cid0000056_c_reconciled
+M_cid0000155_c -> M_cid0000034_c_reconciled + M_cid0000072_c_reconciled
+M_cid0000003_c + M_cid0000204_c -> M_cid0000004_c_reconciled + M_cid0000068_c_reconciled + M_cid0000142_c_reconciled
+M_cid0000003_c + M_cid0000160_c <-> M_cid0000004_c_reconciled + 1.1 M_cid0000068_c_reconciled + M_cid0000726_c
+M_cid0000002_c + M_cid0000207_c <-> M_cid0000008_c_reconciled + 0.56 M_cid0000068_c_reconciled + M_cid0000503_c_reconciled
+M_cid0000006_c + M_cid0000207_c <-> M_cid0000005_c_reconciled + M_cid0000068_c_reconciled + M_cid0000313_c_reconciled
+M_cid0000006_c + M_cid0000009_c + M_cid0000313_c <-> M_cid0000005_c_reconciled + 1.28 M_cid0000068_c_reconciled + M_cid0000710_c_reconciled
+M_cid0000012_c + 0.37 M_cid0000068_c + M_cid0000681_c <-> M_cid0000002_c_reconciled + M_cid0000102_c
+M_cid0000001_c + 2.0 M_cid0000003_c + M_cid0000625_c <-> 2.0 M_cid0000004_c_reconciled + 3.86 M_cid0000068_c_reconciled + M_cid0000118_c_reconciled
+0.98 M_cid0000068_c + M_cid0000118_c -> M_cid0000013_c_reconciled + M_cid0000431_c
+M_cid0000001_c + M_cid0000311_c -> M_cid0000024_c_reconciled + M_cid0000330_c
+M_cid0000001_c + M_cid0000765_c -> 0.2 M_cid0000068_c_reconciled + M_cid0000311_c
+0.8 M_cid0000068_c + M_cid0000765_c <-> M_cid0000001_c_reconciled + M_cid0000431_c
+M_cid0000003_c + M_cid0000446_c <-> M_cid0000004_c_reconciled + 1.29 M_cid0000068_c_reconciled + M_cid0000625_c_reconciled
+M_cid0000001_c + 1.31 M_cid0000068_c + M_cid0000501_c <-> M_cid0000009_c + M_cid0000446_c_reconciled
+M_cid0000025_c + M_cid0000501_c <-> M_cid0000024_c_reconciled + 0.22 M_cid0000068_c_reconciled + M_cid0000547_c
+M_cid0000867_c <-> M_cid0000001_c_reconciled + 0.19 M_cid0000068_c_reconciled + M_cid0000547_c
+M_cid0000001_c + M_cid0000681_c <-> M_cid0000012_c + 1.26 M_cid0000068_c_reconciled + M_cid0000682_c_reconciled
+M_cid0000001_c + M_cid0000682_c <-> 0.09 M_cid0000068_c_reconciled + M_cid0000886_c
+M_cid0000024_c + 0.9 M_cid0000068_c + M_cid0000867_c + M_cid0000868_c <-> M_cid0000055_c_reconciled + M_cid0000887_c
+3.9 M_cid0000068_c + M_cid0000405_c -> M_cid0000011_c_reconciled + M_cid0000042_c_reconciled
+M_cid0000021_c + M_cid0000313_c <-> 2.0 M_cid0000001_c_reconciled + M_cid0000736_c
+M_cid0000001_c + M_cid0000834_c <-> M_cid0000039_c + 0.96 M_cid0000068_c_reconciled + M_cid0000398_c
+M_cid0000006_c + M_cid0000786_c <-> M_cid0000005_c_reconciled + M_cid0000068_c_reconciled + M_cid0000736_c
+M_cid0000001_c + M_cid0000079_c + M_cid0000786_c <-> M_cid0000010_c_reconciled + M_cid0000847_c
+M_cid0000025_c + M_cid0000834_c <-> M_cid0000024_c_reconciled + M_cid0000847_c
+M_cid0000009_c + M_cid0000012_c + M_cid0000018_c -> M_cid0000001_c_reconciled + M_cid0000002_c_reconciled + M_cid0000061_c_reconciled + 1.09 M_cid0000068_c_reconciled
+M_cid0000001_c + M_cid0000020_c + 0.02 M_cid0000068_c <-> M_cid0000133_c_reconciled + M_cid0000169_c_reconciled
+M_cid0000001_c + M_cid0000020_c + 0.03 M_cid0000068_c -> M_cid0000127_c_reconciled + M_cid0000756_c_reconciled
+M_cid0000018_c + M_cid0000133_c <-> M_cid0000020_c_reconciled + M_cid0000061_c_reconciled + 2.0 M_cid0000068_c_reconciled
+0.01 M_cid0000068_c + M_cid0000133_c + M_cid0000312_c <-> M_cid0000061_c_reconciled + M_cid0000088_c
+M_cid0000001_c + 0.03 M_cid0000068_c + M_cid0000508_c <-> M_cid0000013_c_reconciled + M_cid0000039_c + M_cid0000094_c
+M_cid0000001_c + M_cid0000068_c + M_cid0000353_c -> M_cid0000013_c_reconciled + M_cid0000021_c_reconciled + M_cid0000133_c_reconciled
+M_cid0000001_c + 0.01 M_cid0000068_c + M_cid0000756_c <-> M_cid0000104_c_reconciled + M_cid0000133_c_reconciled
+M_cid0000079_c + M_cid0000207_c <-> M_cid0000010_c_reconciled + 0.01 M_cid0000068_c_reconciled + M_cid0000508_c_reconciled
+M_cid0000085_c + M_cid0000508_c <-> M_cid0000039_c + 0.96 M_cid0000068_c_reconciled + M_cid0000353_c_reconciled
+M_cid0000056_c + 0.02 M_cid0000068_c + M_cid0000323_c -> M_cid0000001_c_reconciled + M_cid0000066_c_reconciled
+M_cid0000024_c + 0.02 M_cid0000068_c + M_cid0000140_c <-> M_cid0000025_c + M_cid0000067_c_reconciled
+M_cid0000024_c + M_cid0000525_c <-> M_cid0000025_c + M_cid0000070_c_reconciled
+M_cid0000013_c + M_cid0000197_c -> M_cid0000001_c_reconciled + M_cid0000021_c_reconciled + 0.98 M_cid0000068_c_reconciled + M_cid0000093_c_reconciled
+M_cid0000055_c + M_cid0000197_c -> M_cid0000021_c_reconciled + M_cid0000024_c_reconciled + M_cid0000068_c_reconciled + M_cid0000093_c_reconciled
+M_cid0000093_c + M_cid0000102_c <-> M_cid0000012_c + 0.38 M_cid0000068_c_reconciled + M_cid0000824_c
+M_cid0000068_c + M_cid0000200_c -> M_cid0000001_c_reconciled + M_cid0000011_c_reconciled + M_cid0000140_c_reconciled
+0.23 M_cid0000068_c + M_cid0000549_c <-> M_cid0000009_c + M_cid0000197_c_reconciled
+M_cid0000197_c -> M_cid0000200_c_reconciled
+M_cid0000003_c + M_cid0000200_c -> M_cid0000004_c_reconciled + M_cid0000011_c_reconciled + M_cid0000525_c
+0.04 M_cid0000068_c + M_cid0000101_c + M_cid0000323_c <-> M_cid0000752_c_reconciled
+M_cid0000002_c + M_cid0000333_c <-> M_cid0000008_c_reconciled + 0.78 M_cid0000068_c_reconciled + M_cid0000722_c
+M_cid0000006_c + M_cid0000333_c <-> M_cid0000005_c_reconciled + M_cid0000068_c_reconciled + M_cid0000665_c_reconciled
+0.16 M_cid0000068_c + M_cid0000870_c <-> M_cid0000009_c + M_cid0000466_c_reconciled
+M_cid0000466_c -> M_cid0000001_c_reconciled + M_cid0000665_c_reconciled
+M_cid0000068_c + M_cid0000556_c -> M_cid0000001_c_reconciled + M_cid0000011_c_reconciled + M_cid0000752_c_reconciled
+0.09 M_cid0000068_c + M_cid0000824_c <-> M_cid0000556_c_reconciled
+M_cid0000024_c + 0.04 M_cid0000068_c + M_cid0000181_c <-> M_cid0000025_c + M_cid0000106_c_reconciled
+M_cid0000068_c + M_cid0000815_c -> M_cid0000011_c_reconciled + M_cid0000181_c
+M_cid0000025_c + M_cid0000293_c <-> M_cid0000024_c_reconciled + 0.05 M_cid0000068_c_reconciled + M_cid0000401_c
+0.07 M_cid0000068_c + M_cid0000653_c <-> M_cid0000001_c_reconciled + M_cid0000664_c_reconciled
+0.07 M_cid0000068_c + M_cid0000832_c <-> M_cid0000001_c_reconciled + M_cid0000664_c_reconciled
+M_cid0000003_c + M_cid0000832_c <-> M_cid0000004_c_reconciled + 1.03 M_cid0000068_c_reconciled + M_cid0000815_c
+M_cid0000006_c + M_cid0000796_c + M_cid0000820_c -> M_cid0000005_c_reconciled + M_cid0000810_c
+M_cid0000068_c + M_cid0000796_c + M_cid0000820_c -> M_cid0000001_c_reconciled + M_cid0000124_c
+M_cid0000058_c + M_cid0000459_c <-> M_cid0000021_c_reconciled + M_cid0000890_c
+M_cid0000094_c + M_cid0000890_c <-> M_cid0000058_c + M_cid0001012_c_reconciled
+M_cid0000006_c + M_cid0000805_c <-> M_cid0000005_c_reconciled + M_cid0000068_c_reconciled + M_cid0001117_c_reconciled
+M_cid0001012_c <-> M_cid0001117_c_reconciled
+M_cid0000805_c -> M_cid0000001_c_reconciled + M_cid0000401_c
+M_cid0000001_c + M_cid0000021_c + M_cid0000023_c <-> M_cid0000010_c_reconciled + 0.98 M_cid0000068_c_reconciled + M_cid0001809_c
+M_cid0000025_c + M_cid0000246_c <-> M_cid0000024_c_reconciled + 1.7 M_cid0000068_c_reconciled + M_cid0000180_c
+M_cid0000003_c + 2.0 M_cid0000024_c -> M_cid0000004_c_reconciled + M_cid0000025_c + M_cid0000055_c_reconciled
+M_cid0000509_c <-> M_cid0000021_c_reconciled + M_cid0000043_c
+M_cid0000003_c + M_cid0001758_c -> M_cid0000004_c_reconciled + 1.04 M_cid0000068_c_reconciled + M_cid0000821_c
+M_cid0000006_c + M_cid0001758_c -> M_cid0000005_c_reconciled + 1.04 M_cid0000068_c_reconciled + M_cid0000821_c
+M_cid0000025_c + M_cid0002461_c <-> M_cid0000024_c_reconciled + M_cid0000509_c
+M_cid0000292_c + M_cid0000509_c <-> M_cid0000033_c + 0.01 M_cid0000068_c_reconciled + M_cid0002461_c
+M_cid0000018_c + M_cid0000068_c <-> M_cid0000011_c_reconciled + M_cid0000514_c_reconciled
+M_cid0000117_c + M_cid0000514_c <-> 1.03 M_cid0000068_c_reconciled + M_cid0000144_c + M_cid0000237_c_reconciled
+M_cid0000001_c + M_cid0001966_c <-> M_cid0000028_c_reconciled + M_cid0001965_c
+M_cid0000056_c <-> M_cid0000001_c_reconciled + M_cid0002437_c
+M_cid0000025_c + M_cid0000085_c <-> M_cid0000024_c_reconciled + 0.01 M_cid0000068_c_reconciled + M_cid0000469_c
+M_cid0000223_c + M_cid0001755_c -> M_cid0000030_c_reconciled + 0.3 M_cid0000068_c_reconciled + M_cid0000133_c_reconciled
+M_cid0000223_c + M_cid0000508_c <-> M_cid0000039_c + 0.25 M_cid0000068_c_reconciled + M_cid0000133_c_reconciled
+M_cid0000001_c + 0.01 M_cid0000068_c + M_cid0000144_c <-> M_cid0000127_c_reconciled + M_cid0000711_c
+M_cid0000068_c + M_cid0000239_c + M_cid0000249_c + M_cid0001755_c -> M_cid0000030_c_reconciled + M_cid0000082_c + M_cid0000133_c_reconciled + M_cid0000250_c
+M_cid0000001_c + 0.99 M_cid0000068_c + M_cid0000331_c <-> M_cid0000013_c_reconciled + M_cid0000021_c_reconciled + M_cid0002436_c
+M_cid0000025_c + M_cid0000339_c <-> M_cid0000024_c_reconciled + M_cid0002453_c
+M_cid0000025_c + M_cid0000373_c <-> M_cid0000024_c_reconciled + M_cid0001930_c
+M_cid0000003_c + M_cid0001979_c <-> M_cid0000004_c_reconciled + M_cid0000068_c_reconciled + M_cid0000469_c
+M_cid0000085_c + M_cid0001755_c -> M_cid0000030_c_reconciled + 1.01 M_cid0000068_c_reconciled + M_cid0000353_c_reconciled
+M_cid0000018_c + M_cid0001747_c <-> M_cid0000020_c_reconciled + M_cid0001823_c
+M_cid0000068_c + M_cid0000239_c + M_cid0000249_c + M_cid0000471_c -> M_cid0000030_c_reconciled + M_cid0000082_c + M_cid0000085_c_reconciled + M_cid0000250_c
+M_cid0000026_c + 2.0 M_cid0000045_c -> 2.0 M_cid0000001_c_reconciled + M_cid0000110_c
+M_cid0000002_c + M_cid0000024_c + 0.47 M_cid0000068_c + M_cid0000085_c <-> M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0000399_c
+M_cid0000514_c + M_cid0000605_c <-> 1.03 M_cid0000068_c_reconciled + M_cid0000144_c + M_cid0002478_c
+M_cid0000931_c -> M_cid0000034_c_reconciled + M_cid0000072_c_reconciled
+M_cid0000056_c + M_cid0000752_c -> M_cid0000001_c_reconciled + M_cid0000066_c_reconciled + 0.02 M_cid0000068_c_reconciled + M_cid0000101_c_reconciled
+M_cid0000003_c + M_cid0000034_c + 0.98 M_cid0000068_c + M_cid0000088_c -> M_cid0000004_c_reconciled + M_cid0000011_c_reconciled + M_cid0000013_c_reconciled + M_cid0000125_c
+M_cid0000018_c + M_cid0000118_c <-> M_cid0000020_c_reconciled + 2.0 M_cid0000068_c_reconciled + M_cid0001756_c
+M_cid0000025_c + M_cid0000830_c <-> M_cid0000024_c_reconciled + M_cid0000932_c
+M_cid0000002_c + 0.48 M_cid0000068_c + M_cid0000405_c + M_cid0000416_c <-> M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0000882_c
+M_cid0000002_c + 0.45 M_cid0000068_c + M_cid0000473_c + M_cid0000882_c <-> M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0000884_c
+M_cid0000001_c + M_cid0000023_c + M_cid0000025_c <-> M_cid0000010_c_reconciled + 0.98 M_cid0000068_c_reconciled + M_cid0002434_c
+1.02 M_cid0000068_c + M_cid0000440_c -> M_cid0000001_c_reconciled + M_cid0000011_c_reconciled + M_cid0000067_c_reconciled
+M_cid0000025_c + M_cid0000067_c <-> 0.02 M_cid0000068_c_reconciled + M_cid0000140_c_reconciled + M_cid0000173_c_reconciled
+M_cid0000003_c + M_cid0000935_c <-> M_cid0000004_c_reconciled + M_cid0000068_c_reconciled + M_cid0000305_c
+M_cid0001688_c + M_cid0001959_c <-> M_cid0000038_c_reconciled + M_cid0000576_c + M_cid0001687_c
+M_cid0000471_c + M_cid0000576_c -> M_cid0000030_c_reconciled + M_cid0000068_c_reconciled + M_cid0001959_c
+M_cid0000002_c + M_cid0000597_c + M_cid0001912_c <-> M_cid0000012_c + M_cid0000019_c_reconciled + M_cid0001913_c
+M_cid0000002_c + M_cid0002455_c <-> M_cid0000008_c_reconciled + 0.91 M_cid0000068_c_reconciled + M_cid0002456_c
+M_cid0000002_c + M_cid0002457_c <-> M_cid0000012_c + 0.37 M_cid0000068_c_reconciled + M_cid0002455_c
+M_cid0000001_c + 0.99 M_cid0000068_c + M_cid0002458_c <-> M_cid0000013_c_reconciled + M_cid0000021_c_reconciled + M_cid0001964_c
+M_cid0001755_c + M_cid0001959_c -> M_cid0000030_c_reconciled + M_cid0000068_c_reconciled + M_cid0002458_c
+M_cid0000508_c + M_cid0001959_c <-> M_cid0000039_c + 0.95 M_cid0000068_c_reconciled + M_cid0002458_c
+M_cid0000001_c + M_cid0000058_c -> M_cid0000009_c + 0.91 M_cid0000068_c_reconciled + M_cid0000493_c
+M_cid0000002_c + M_cid0000058_c <-> M_cid0000008_c_reconciled + M_cid0001824_c
+M_cid0000002_c + M_cid0000823_c <-> M_cid0000008_c_reconciled + 0.67 M_cid0000068_c_reconciled + M_cid0000825_c_reconciled
+M_cid0000085_c + M_cid0002199_c <-> M_cid0000038_c_reconciled + M_cid0002200_c
+M_cid0000070_c + M_cid0001092_c + M_cid0002477_c <-> M_cid0000825_c_reconciled
+M_cid0000070_c + M_cid0002473_c + M_cid0002477_c <-> M_cid0000825_c_reconciled
+M_cid0000002_c + M_cid0000066_c + 0.77 M_cid0000068_c + M_cid0000602_c <-> M_cid0000012_c + M_cid0000019_c_reconciled + M_cid0000755_c
+M_cid0001945_c <-> M_cid0000021_c_reconciled + M_cid0000180_c
+M_cid0000018_c + M_cid0001802_c <-> M_cid0000020_c_reconciled + 2.01 M_cid0000068_c_reconciled + M_cid0002017_c
+M_cid0000003_c + M_cid0001934_c <-> M_cid0000004_c_reconciled + M_cid0000068_c_reconciled + M_cid0001935_c
+M_cid0000002_c + 0.74 M_cid0000068_c + M_cid0000293_c + M_cid0000594_c <-> M_cid0000012_c + M_cid0000019_c_reconciled + M_cid0000717_c
+M_cid0000002_c + 0.75 M_cid0000068_c + M_cid0000106_c + M_cid0000595_c <-> M_cid0000012_c + M_cid0000019_c_reconciled + M_cid0000629_c
+M_cid0000002_c + 0.75 M_cid0000068_c + M_cid0000151_c + M_cid0000603_c <-> M_cid0000012_c + M_cid0000019_c_reconciled + M_cid0000660_c
+M_cid0000001_c + 1.97 M_cid0000068_c + M_cid0000074_c -> M_cid0000011_c_reconciled + 2.0 M_cid0000013_c_reconciled
+M_cid0000001_c + M_cid0000048_c + 0.4 M_cid0000068_c -> M_cid0000009_c + M_cid0000019_c_reconciled
+40.0 M_cid0000001_c + 40.0 M_cid0000002_c + 3.1 M_cid0000016_c + 0.06 M_cid0000036_c + 4e-05 M_cid0001021_c + 0.092 M_cid0001364_c + 0.251 M_cid0001454_c + 0.00102 M_cid0001472_c + 0.001 M_cid0001493_c + 0.557 M_cid0001620_c + 0.238 M_cid0001690_c -> 40.0 M_cid0000008_c_reconciled + 40.0 M_cid0000009_c + M_cid0001354_c_reconciled
+M_cid0000001_c + M_cid0000012_c -> 2.0 M_cid0000009_c + 0.4 M_cid0000068_c_reconciled
+1000.0 M_cid0000335_c -> 1000.0 M_cid0000008_c_reconciled + M_cid0001493_c
+M_cid0000063_c + 0.48 M_cid0000068_c + M_cid0000817_c -> M_cid0000012_c + M_cid0000040_c_reconciled
+M_cid0000001_c + 0.99 M_cid0000068_c + M_cid0000270_c -> M_cid0000013_c_reconciled + M_cid0000073_c_reconciled
+M_cid0000055_c + M_cid0000073_c -> M_cid0000024_c_reconciled + 1.01 M_cid0000068_c_reconciled + M_cid0000270_c_reconciled
+M_cid0000001_c + M_cid0000274_c -> M_cid0000030_c_reconciled + M_cid0000068_c_reconciled + M_cid0000270_c_reconciled
+0.05 M_cid0000068_c + M_cid0001029_c <-> M_cid0000270_c_reconciled
+M_cid0000006_c + M_cid0000487_c <-> M_cid0000005_c_reconciled + M_cid0000068_c_reconciled + M_cid0000863_c
+M_cid0000023_c + 0.05 M_cid0000068_c + M_cid0001029_c -> M_cid0000010_c_reconciled + M_cid0000817_c_reconciled
+M_cid0000439_c -> M_cid0000001_c_reconciled + M_cid0000404_c
+M_cid0000404_c <-> M_cid0000021_c_reconciled + M_cid0000517_c
+2.0 M_cid0000023_c <-> M_cid0000010_c_reconciled + M_cid0000244_c_reconciled
+M_cid0000003_c + M_cid0000119_c -> M_cid0000004_c_reconciled + M_cid0000068_c_reconciled + M_cid0000450_c_reconciled
+M_cid0000003_c + M_cid0000010_c + M_cid0000567_c -> M_cid0000004_c_reconciled + M_cid0000068_c_reconciled + M_cid0000119_c
+M_cid0000009_c + M_cid0000119_c <-> M_cid0000010_c_reconciled + 0.32 M_cid0000068_c_reconciled + M_cid0000656_c_reconciled
+M_cid0000002_c + 0.15 M_cid0000068_c + M_cid0000192_c <-> M_cid0000008_c_reconciled + M_cid0000656_c_reconciled
+M_cid0000003_c + M_cid0000516_c -> M_cid0000004_c_reconciled + M_cid0000068_c_reconciled + M_cid0000244_c_reconciled
+M_cid0000516_c <-> M_cid0000001_c_reconciled + M_cid0000450_c_reconciled
+M_cid0000516_c <-> M_cid0000759_c_reconciled
+M_cid0000004_c + M_cid0000068_c + M_cid0000567_c <-> M_cid0000003_c + M_cid0001027_c_reconciled
+M_cid0000011_c + M_cid0000459_c -> 2.0 M_cid0000021_c_reconciled + M_cid0000068_c_reconciled
+M_cid0000068_c + M_cid0000459_c -> M_cid0000011_c_reconciled + M_cid0000324_c
+0.04 M_cid0000068_c + M_cid0001809_c <-> M_cid0000001_c_reconciled + M_cid0001793_c
+M_cid0000003_c + M_cid0000129_c -> M_cid0000004_c_reconciled + M_cid0000033_c + 1.01 M_cid0000068_c_reconciled
+M_cid0000003_c + M_cid0000234_c -> M_cid0000004_c_reconciled + M_cid0000011_c_reconciled + M_cid0000025_c + 0.02 M_cid0000068_c_reconciled
+M_cid0000129_c -> M_cid0000001_c_reconciled + 0.01 M_cid0000068_c_reconciled + M_cid0000105_c
+M_cid0000010_c + M_cid0000025_c + M_cid0000122_c -> M_cid0000011_c_reconciled + M_cid0000068_c_reconciled + M_cid0000079_c + M_cid0000121_c
+M_cid0000001_c + M_cid0000304_c -> 0.01 M_cid0000068_c_reconciled + M_cid0000135_c
+0.01 M_cid0000068_c + M_cid0000234_c -> M_cid0000001_c_reconciled + M_cid0000304_c
+M_cid0000002_c + M_cid0000010_c + M_cid0000039_c + 0.43 M_cid0000068_c -> M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0000079_c
+M_cid0000010_c + 0.98 M_cid0000068_c + M_cid0000135_c -> M_cid0000001_c_reconciled + M_cid0000023_c_reconciled + M_cid0000033_c
+M_cid0000015_c + M_cid0000039_c + 0.44 M_cid0000068_c -> M_cid0000105_c + M_cid0000564_c_reconciled
+M_cid0000009_c + M_cid0000084_c -> M_cid0000032_c_reconciled + 0.61 M_cid0000068_c_reconciled + M_cid0000382_c_reconciled
+M_cid0000041_c + 0.49 M_cid0000068_c + M_cid0000382_c -> M_cid0000012_c + M_cid0000084_c_reconciled
+M_cid0000101_c <-> 0.07 M_cid0000068_c_reconciled + M_cid0000095_c_reconciled
+0.07 M_cid0000068_c + M_cid0000272_c <-> M_cid0000095_c_reconciled + M_cid0000101_c_reconciled
+M_cid0000220_c <-> 0.01 M_cid0000068_c_reconciled + M_cid0000382_c_reconciled
+M_cid0000220_c <-> M_cid0000073_c_reconciled
+M_cid0000002_c + M_cid0000497_c -> M_cid0000008_c_reconciled + 0.85 M_cid0000068_c_reconciled + M_cid0000272_c_reconciled
+M_cid0000003_c + M_cid0000392_c <-> M_cid0000004_c_reconciled + 1.1 M_cid0000068_c_reconciled + M_cid0000073_c_reconciled
+M_cid0000002_c + M_cid0000073_c -> M_cid0000008_c_reconciled + 0.86 M_cid0000068_c_reconciled + M_cid0000272_c_reconciled
+M_cid0000001_c + 0.34 M_cid0000068_c + M_cid0000272_c -> M_cid0000009_c + M_cid0000073_c_reconciled
+M_cid0000136_c + M_cid0002416_c <-> M_cid0000220_c_reconciled + M_cid0002414_c
+M_cid0000006_c + M_cid0000240_c <-> M_cid0000005_c_reconciled + M_cid0000068_c_reconciled + M_cid0000537_c
+M_cid0000002_c + M_cid0000083_c -> M_cid0000008_c_reconciled + 0.84 M_cid0000068_c_reconciled + M_cid0000073_c_reconciled
+M_cid0000084_c <-> M_cid0000001_c_reconciled + M_cid0000537_c
+M_cid0000288_c + M_cid0002416_c <-> M_cid0000392_c_reconciled + M_cid0002414_c
+M_cid0000006_c + M_cid0000498_c <-> M_cid0000005_c_reconciled + 1.11 M_cid0000068_c_reconciled + M_cid0001821_c
+M_cid0000063_c + 0.49 M_cid0000068_c + M_cid0000089_c -> M_cid0000012_c + M_cid0000027_c_reconciled
+M_cid0000046_c <-> M_cid0000027_c_reconciled
+M_cid0000063_c + 0.49 M_cid0000068_c + M_cid0000315_c <-> M_cid0000012_c + M_cid0000046_c_reconciled
+0.07 M_cid0000068_c + M_cid0000772_c <-> M_cid0000095_c_reconciled + M_cid0000101_c_reconciled
+M_cid0000002_c + M_cid0000107_c <-> M_cid0000008_c_reconciled + 0.85 M_cid0000068_c_reconciled + M_cid0000315_c
+M_cid0000002_c + M_cid0000028_c -> M_cid0000008_c_reconciled + 0.84 M_cid0000068_c_reconciled + M_cid0000080_c
+M_cid0000002_c + M_cid0000499_c -> M_cid0000008_c_reconciled + 0.86 M_cid0000068_c_reconciled + M_cid0000772_c_reconciled
+M_cid0000054_c + M_cid0000499_c -> 0.87 M_cid0000068_c_reconciled + M_cid0000096_c_reconciled + M_cid0000772_c_reconciled
+M_cid0000063_c + M_cid0000499_c -> M_cid0000014_c_reconciled + 0.87 M_cid0000068_c_reconciled + M_cid0000772_c_reconciled
+M_cid0000069_c + M_cid0000499_c -> 0.87 M_cid0000068_c_reconciled + M_cid0000090_c_reconciled + M_cid0000772_c_reconciled
+M_cid0000507_c <-> M_cid0000499_c_reconciled
+M_cid0000001_c + M_cid0000922_c <-> M_cid0000174_c_reconciled + M_cid0000507_c_reconciled
+M_cid0000027_c + M_cid0000315_c <-> M_cid0000046_c_reconciled + M_cid0000089_c
+M_cid0000001_c + M_cid0000077_c <-> M_cid0000028_c_reconciled + M_cid0000083_c_reconciled
+M_cid0000001_c + M_cid0000332_c <-> M_cid0000083_c_reconciled + M_cid0000923_c_reconciled
+M_cid0000001_c + M_cid0000584_c <-> M_cid0000083_c_reconciled + M_cid0000924_c
+M_cid0000189_c + M_cid0002416_c <-> M_cid0000922_c_reconciled + M_cid0002414_c
+M_cid0000607_c + M_cid0002416_c <-> M_cid0001048_c_reconciled + M_cid0002414_c
+M_cid0000011_c + M_cid0000890_c -> M_cid0000021_c_reconciled + M_cid0000058_c + M_cid0000068_c_reconciled
+M_cid0000002_c + M_cid0000021_c -> M_cid0000008_c_reconciled + M_cid0000062_c + 0.9 M_cid0000068_c_reconciled
+M_cid0000381_c <-> M_cid0000001_c_reconciled + M_cid0000062_c
+M_cid0000003_c + M_cid0000154_c -> M_cid0000004_c_reconciled + M_cid0000021_c_reconciled + M_cid0000068_c_reconciled
+M_cid0000003_c + M_cid0000325_c <-> M_cid0000004_c_reconciled + M_cid0000068_c_reconciled + M_cid0000072_c_reconciled
+M_cid0000003_c + M_cid0000009_c + M_cid0000101_c -> M_cid0000004_c_reconciled + 1.32 M_cid0000068_c_reconciled + M_cid0000184_c
+M_cid0000002_c + 0.13 M_cid0000068_c + M_cid0000160_c <-> M_cid0000008_c_reconciled + M_cid0000184_c
+M_cid0000001_c + M_cid0000184_c -> M_cid0000009_c + 0.66 M_cid0000068_c_reconciled + M_cid0000160_c
+M_cid0000002_c + M_cid0000174_c -> M_cid0000008_c_reconciled + 0.84 M_cid0000068_c_reconciled + M_cid0000523_c_reconciled
+M_cid0000028_c <-> M_cid0000174_c_reconciled
+M_cid0000080_c <-> M_cid0000523_c_reconciled
+M_cid0000080_c <-> M_cid0000073_c_reconciled
+M_cid0000523_c <-> M_cid0000073_c_reconciled
+M_cid0000001_c + M_cid0001031_c <-> M_cid0000347_c + M_cid0000523_c_reconciled
+M_cid0000001_c + M_cid0001032_c <-> M_cid0000523_c_reconciled + M_cid0000641_c
+M_cid0000001_c + M_cid0000101_c + M_cid0000122_c -> 2.98 M_cid0000068_c_reconciled + M_cid0000121_c + M_cid0000160_c
+M_cid0000001_c + M_cid0000006_c + M_cid0000101_c -> M_cid0000005_c_reconciled + 1.98 M_cid0000068_c_reconciled + M_cid0000160_c
+2.0 M_cid0000043_c + M_cid0000068_c -> M_cid0000011_c_reconciled + M_cid0000517_c
+M_cid0000010_c + 0.99 M_cid0000068_c + M_cid0000129_c -> M_cid0000001_c_reconciled + M_cid0000023_c_reconciled + M_cid0000043_c
+M_cid0000003_c + M_cid0000137_c <-> M_cid0000004_c_reconciled + M_cid0000043_c + M_cid0000068_c_reconciled
+M_cid0000002_c + M_cid0000050_c + 0.47 M_cid0000068_c + M_cid0000088_c <-> M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0000182_c
+M_cid0000001_c + M_cid0000003_c + M_cid0000208_c <-> M_cid0000004_c_reconciled + 2.0 M_cid0000068_c_reconciled + M_cid0000137_c_reconciled
+M_cid0000068_c + M_cid0000142_c -> M_cid0000011_c_reconciled + M_cid0000208_c_reconciled
+M_cid0000002_c + 0.57 M_cid0000068_c + M_cid0000187_c <-> M_cid0000008_c_reconciled + M_cid0000422_c_reconciled
+M_cid0000006_c + M_cid0000204_c <-> M_cid0000005_c_reconciled + M_cid0000068_c_reconciled + M_cid0000517_c
+M_cid0000006_c + M_cid0000491_c <-> M_cid0000005_c_reconciled + 1.01 M_cid0000068_c_reconciled + M_cid0000162_c_reconciled
+M_cid0000162_c <-> M_cid0000179_c_reconciled
+M_cid0000002_c + M_cid0000164_c <-> M_cid0000008_c_reconciled + 0.7 M_cid0000068_c_reconciled + M_cid0000844_c
+M_cid0000002_c + M_cid0000233_c <-> M_cid0000008_c_reconciled + 0.75 M_cid0000068_c_reconciled + M_cid0000179_c_reconciled
+M_cid0000205_c <-> M_cid0000341_c_reconciled
+M_cid0000002_c + M_cid0000341_c <-> M_cid0000008_c_reconciled + 0.75 M_cid0000068_c_reconciled + M_cid0000502_c
+M_cid0000844_c <-> M_cid0000021_c_reconciled + 0.09 M_cid0000068_c_reconciled + M_cid0000101_c_reconciled
+M_cid0000502_c <-> M_cid0000179_c_reconciled
+M_cid0001014_c <-> 0.09 M_cid0000068_c_reconciled + M_cid0000073_c_reconciled
+M_cid0000157_c <-> M_cid0000460_c_reconciled
+M_cid0000438_c -> M_cid0000001_c_reconciled + M_cid0000164_c
+M_cid0000003_c + M_cid0000164_c <-> M_cid0000004_c_reconciled + M_cid0000068_c_reconciled + M_cid0000827_c
+M_cid0000245_c <-> M_cid0000359_c_reconciled
+M_cid0000003_c + M_cid0000438_c <-> M_cid0000004_c_reconciled + M_cid0000068_c_reconciled + M_cid0000359_c_reconciled
+M_cid0000344_c -> M_cid0000001_c_reconciled + M_cid0000164_c
+M_cid0000002_c + M_cid0000100_c -> M_cid0000019_c_reconciled + 0.84 M_cid0000068_c_reconciled + M_cid0000102_c
+M_cid0000002_c + M_cid0000104_c <-> M_cid0000008_c_reconciled + 0.84 M_cid0000068_c_reconciled + M_cid0000100_c
+0.09 M_cid0000068_c + M_cid0000100_c <-> M_cid0000162_c_reconciled
+0.05 M_cid0000068_c + M_cid0000403_c -> M_cid0000072_c_reconciled + M_cid0000101_c_reconciled
+M_cid0000203_c <-> M_cid0000001_c_reconciled + M_cid0000164_c
+0.06 M_cid0000068_c + M_cid0000100_c + M_cid0000179_c <-> M_cid0000101_c_reconciled + M_cid0000919_c_reconciled
+M_cid0000002_c + M_cid0000203_c -> M_cid0000008_c_reconciled + 0.71 M_cid0000068_c_reconciled + M_cid0000259_c
+M_cid0000101_c + M_cid0000919_c <-> 0.06 M_cid0000068_c_reconciled + M_cid0000073_c_reconciled + M_cid0000221_c_reconciled
+0.13 M_cid0000068_c + M_cid0000073_c + M_cid0000101_c <-> M_cid0000179_c_reconciled + M_cid0000221_c_reconciled
+M_cid0000006_c + M_cid0000523_c -> M_cid0000005_c_reconciled + 0.97 M_cid0000068_c_reconciled + M_cid0000543_c
+M_cid0000402_c <-> 0.06 M_cid0000068_c_reconciled + M_cid0000403_c
+M_cid0000008_c + M_cid0000009_c + 0.62 M_cid0000068_c + M_cid0000071_c -> M_cid0000002_c_reconciled + M_cid0000023_c_reconciled + M_cid0000225_c
+M_cid0000068_c + M_cid0000139_c -> M_cid0000011_c_reconciled + M_cid0000166_c
+M_cid0000001_c + M_cid0000002_c + M_cid0000021_c <-> M_cid0000009_c + M_cid0000019_c_reconciled + M_cid0000062_c + 1.99 M_cid0000068_c_reconciled
+M_cid0000003_c + M_cid0000010_c + M_cid0000072_c -> M_cid0000004_c_reconciled + M_cid0000023_c_reconciled + M_cid0000068_c_reconciled
+M_cid0000009_c + M_cid0000023_c -> M_cid0000010_c_reconciled + 0.31 M_cid0000068_c_reconciled + M_cid0000177_c_reconciled
+M_cid0000002_c + M_cid0000030_c + 0.16 M_cid0000068_c <-> M_cid0000008_c_reconciled + M_cid0000177_c_reconciled
+M_cid0000010_c + 0.97 M_cid0000068_c + M_cid0000653_c -> M_cid0000001_c_reconciled + M_cid0000023_c_reconciled + M_cid0000124_c
+M_cid0000068_c + M_cid0000459_c -> M_cid0000011_c_reconciled + M_cid0000324_c
+M_cid0000001_c + M_cid0000167_c <-> 2.0 M_cid0000028_c_reconciled
+M_cid0000001_c + M_cid0000077_c <-> M_cid0000028_c_reconciled + M_cid0000083_c_reconciled
+M_cid0000001_c + 0.32 M_cid0000068_c + M_cid0000662_c <-> M_cid0000009_c + M_cid0000077_c_reconciled
+M_cid0000001_c + M_cid0000414_c <-> M_cid0000028_c_reconciled + M_cid0000080_c
+M_cid0000001_c + M_cid0000702_c <-> M_cid0000028_c_reconciled + M_cid0000080_c
+M_cid0000002_c + 0.49 M_cid0000068_c + M_cid0000089_c <-> M_cid0000012_c + M_cid0000335_c_reconciled
+M_cid0000009_c + M_cid0000167_c <-> M_cid0000028_c_reconciled + 0.33 M_cid0000068_c_reconciled + M_cid0000397_c_reconciled
+M_cid0000009_c + M_cid0000494_c <-> M_cid0000028_c_reconciled + 0.33 M_cid0000068_c_reconciled + M_cid0000397_c_reconciled
+0.01 M_cid0000068_c + M_cid0000397_c <-> M_cid0000523_c_reconciled
+M_cid0000001_c + M_cid0000662_c -> M_cid0000080_c + M_cid0000083_c_reconciled
+M_cid0000001_c + M_cid0000606_c <-> 2.0 M_cid0000123_c_reconciled
+M_cid0000001_c + M_cid0000040_c <-> M_cid0000014_c_reconciled + 0.28 M_cid0000068_c_reconciled + M_cid0000393_c_reconciled
+M_cid0000040_c <-> M_cid0000522_c_reconciled
+M_cid0000123_c + M_cid0002416_c <-> M_cid0000274_c_reconciled + M_cid0002414_c
+M_cid0000001_c + M_cid0002479_c <-> 0.03 M_cid0000068_c_reconciled + M_cid0000202_c + M_cid0000274_c_reconciled
+M_cid0000149_c <-> M_cid0000001_c_reconciled + M_cid0001796_c
+M_cid0000006_c + M_cid0000516_c -> M_cid0000005_c_reconciled + M_cid0000068_c_reconciled + M_cid0000244_c_reconciled
+M_cid0000058_c + M_cid0000459_c <-> M_cid0000021_c_reconciled + M_cid0000890_c
+M_cid0000023_c + M_cid0000050_c <-> M_cid0000010_c_reconciled + M_cid0000021_c_reconciled
+2.0 M_cid0000001_c + M_cid0001971_c <-> 2.0 M_cid0000107_c_reconciled
+M_cid0000509_c <-> M_cid0000021_c_reconciled + M_cid0000043_c
+M_cid0000001_c + 0.28 M_cid0000068_c + M_cid0000472_c <-> M_cid0000009_c + M_cid0000137_c_reconciled
+M_cid0000009_c + M_cid0000087_c <-> M_cid0000010_c_reconciled + 0.32 M_cid0000068_c_reconciled + M_cid0000688_c
+M_cid0000003_c + M_cid0001993_c <-> M_cid0000004_c_reconciled + M_cid0000068_c_reconciled + M_cid0000094_c
+M_cid0000002_c + 0.16 M_cid0000068_c + M_cid0000138_c <-> M_cid0000008_c_reconciled + M_cid0000688_c
+M_cid0000335_c <-> M_cid0000008_c_reconciled + M_cid0000423_c
+M_cid0000001_c + M_cid0001739_c <-> M_cid0000174_c_reconciled
+M_cid0000001_c + M_cid0000614_c <-> M_cid0000028_c_reconciled + M_cid0001765_c
+M_cid0000028_c + M_cid0002465_c <-> 2.0 M_cid0000077_c_reconciled
+M_cid0000003_c + M_cid0000050_c -> M_cid0000004_c_reconciled + M_cid0000011_c_reconciled
+M_cid0000006_c + M_cid0000068_c + M_cid0000121_c -> M_cid0000005_c_reconciled + M_cid0000122_c
+M_cid0000011_c + M_cid0000023_c + M_cid0000068_c + M_cid0000121_c -> M_cid0000010_c_reconciled + M_cid0000021_c_reconciled + M_cid0000122_c
+M_cid0000003_c + M_cid0000068_c + M_cid0000121_c -> M_cid0000004_c_reconciled + M_cid0000122_c
+M_cid0000001_c + M_cid0000330_c <-> M_cid0000013_c_reconciled + M_cid0000050_c + 0.01 M_cid0000068_c_reconciled
+2.0 M_cid0000001_c + M_cid0000013_c + 3.0 M_cid0000122_c -> 7.99 M_cid0000068_c_reconciled + M_cid0000076_c + 3.0 M_cid0000121_c
+M_cid0000001_c + M_cid0000076_c + M_cid0000122_c -> 2.0 M_cid0000068_c_reconciled + M_cid0000121_c + M_cid0000190_c
+16.0 M_cid0000001_c + 16.0 M_cid0000002_c + 1.59 M_cid0000068_c + 4.0 M_cid0000121_c + M_cid0000418_c -> 16.0 M_cid0000008_c_reconciled + 16.0 M_cid0000009_c + 2.0 M_cid0000013_c_reconciled + 4.0 M_cid0000122_c + M_cid0000222_c
+M_cid0000002_c + M_cid0000176_c <-> M_cid0000008_c_reconciled + M_cid0000047_c + 0.91 M_cid0000068_c_reconciled
+3.0 M_cid0000001_c + 3.0 M_cid0000006_c + M_cid0000223_c -> 3.0 M_cid0000005_c_reconciled + 3.33 M_cid0000068_c_reconciled + M_cid0000082_c
+M_cid0000047_c + M_cid0000249_c -> M_cid0000048_c + M_cid0000068_c_reconciled + M_cid0000082_c + M_cid0000250_c
+M_cid0000001_c + M_cid0000185_c + M_cid0001687_c <-> M_cid0000011_c_reconciled + M_cid0001688_c
+M_cid0000003_c + M_cid0002472_c <-> M_cid0000004_c_reconciled + M_cid0000068_c_reconciled + M_cid0000480_c
+0.9 M_cid0000068_c + M_cid0000225_c <-> M_cid0000001_c_reconciled + M_cid0000011_c_reconciled
+M_cid0000015_c + M_cid0000019_c + 1.33 M_cid0000068_c + M_cid0000082_c <-> M_cid0000176_c + M_cid0000564_c_reconciled
+M_cid0000002_c + 0.45 M_cid0000068_c + M_cid0000473_c + M_cid0001988_c <-> M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0001888_c_reconciled
+M_cid0000040_c + M_cid0000983_c <-> M_cid0000014_c_reconciled + 0.28 M_cid0000068_c_reconciled + M_cid0000984_c
+M_cid0000001_c + M_cid0000857_c <-> M_cid0000009_c + 0.85 M_cid0000068_c_reconciled + M_cid0002358_c
+M_cid0001888_c + M_cid0002358_c <-> 0.24 M_cid0000068_c_reconciled + M_cid0000091_c_reconciled + M_cid0001896_c_reconciled
+M_cid0000884_c + M_cid0002358_c <-> 0.24 M_cid0000068_c_reconciled + M_cid0000091_c_reconciled + M_cid0000983_c
+M_cid0000040_c + M_cid0001896_c <-> M_cid0000014_c_reconciled + 0.28 M_cid0000068_c_reconciled + M_cid0000980_c
+M_cid0000112_c + M_cid0000183_c -> M_cid0000012_c + 0.37 M_cid0000068_c_reconciled + M_cid0000248_c_reconciled
+M_cid0000112_c + M_cid0000248_c -> M_cid0000012_c + 0.37 M_cid0000068_c_reconciled + M_cid0000317_c
+M_cid0000112_c + M_cid0000317_c <-> M_cid0000012_c + 0.37 M_cid0000068_c_reconciled + M_cid0000271_c_reconciled
+M_cid0000112_c + M_cid0000540_c <-> M_cid0000012_c + 0.37 M_cid0000068_c_reconciled + M_cid0000812_c_reconciled
+M_cid0000112_c + M_cid0000813_c <-> M_cid0000012_c + 0.37 M_cid0000068_c_reconciled + M_cid0000540_c_reconciled
+M_cid0000054_c + 0.38 M_cid0000068_c + M_cid0001089_c <-> M_cid0000012_c + M_cid0001090_c_reconciled
+M_cid0000002_c + M_cid0001090_c <-> M_cid0000008_c_reconciled + 0.86 M_cid0000068_c_reconciled + M_cid0001091_c_reconciled
+M_cid0000021_c + 1.03 M_cid0000068_c + M_cid0000101_c <-> M_cid0000011_c_reconciled + M_cid0001092_c_reconciled
+0.02 M_cid0000068_c + M_cid0001091_c <-> M_cid0000049_c_reconciled + M_cid0001093_c
+M_cid0000006_c + M_cid0001089_c -> M_cid0000005_c_reconciled + M_cid0000068_c_reconciled + M_cid0001092_c_reconciled
+M_cid0000005_c + M_cid0000068_c + M_cid0001102_c -> M_cid0000001_c_reconciled + M_cid0000006_c + M_cid0000112_c_reconciled
+M_cid0000112_c + M_cid0000271_c <-> M_cid0000012_c + 0.37 M_cid0000068_c_reconciled + M_cid0000813_c
+M_cid0000112_c + M_cid0000812_c <-> M_cid0000012_c + 0.37 M_cid0000068_c_reconciled + M_cid0000808_c
+M_cid0000023_c + M_cid0000178_c <-> M_cid0000010_c_reconciled + M_cid0000785_c
+M_cid0000071_c + M_cid0000178_c -> M_cid0000010_c_reconciled + M_cid0000532_c
+M_cid0000001_c + M_cid0000960_c <-> 0.99 M_cid0000068_c_reconciled + M_cid0000178_c + M_cid0000195_c
+M_cid0000002_c + M_cid0000225_c + M_cid0001045_c <-> M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0000833_c_reconciled
+M_cid0000023_c + M_cid0000833_c -> M_cid0000071_c + M_cid0001045_c_reconciled
+7.0 M_cid0000004_c + 7.0 M_cid0000005_c + 14.0 M_cid0000068_c + 7.0 M_cid0000532_c + M_cid0000785_c <-> 7.0 M_cid0000003_c + 7.0 M_cid0000006_c + 7.0 M_cid0000011_c_reconciled + 7.0 M_cid0000178_c + M_cid0000960_c
+M_cid0000002_c + M_cid0000010_c + M_cid0000195_c <-> M_cid0000012_c + M_cid0000019_c_reconciled + 0.22 M_cid0000068_c_reconciled + M_cid0000132_c_reconciled
+M_cid0000003_c + M_cid0000516_c -> M_cid0000004_c_reconciled + M_cid0000068_c_reconciled + M_cid0000244_c_reconciled
+6.0 M_cid0000001_c + 6.0 M_cid0000006_c + 6.0 M_cid0000010_c + 7.0 M_cid0000015_c + M_cid0000132_c -> 6.0 M_cid0000005_c_reconciled + 6.0 M_cid0000023_c_reconciled + 2.63 M_cid0000068_c_reconciled + M_cid0000450_c_reconciled + 7.0 M_cid0000564_c_reconciled
+M_cid0000002_c + M_cid0000099_c -> M_cid0000008_c_reconciled + 0.74 M_cid0000068_c_reconciled + M_cid0000081_c
+M_cid0000006_c + M_cid0000099_c <-> M_cid0000005_c_reconciled + M_cid0000068_c_reconciled + M_cid0000365_c_reconciled
+M_cid0000002_c + M_cid0000204_c -> M_cid0000008_c_reconciled + 0.76 M_cid0000068_c_reconciled + M_cid0000160_c
+M_cid0000002_c + M_cid0000390_c <-> M_cid0000008_c_reconciled + M_cid0000296_c_reconciled
+M_cid0000027_c + M_cid0000390_c <-> M_cid0000014_c_reconciled + M_cid0000799_c
+M_cid0000027_c + M_cid0000799_c <-> M_cid0000014_c_reconciled + M_cid0001019_c
+M_cid0000010_c + M_cid0000195_c <-> M_cid0000001_c_reconciled + M_cid0000037_c
+M_cid0000037_c + M_cid0000081_c <-> M_cid0000010_c_reconciled + M_cid0002429_c
+M_cid0000006_c + M_cid0000081_c <-> M_cid0000005_c_reconciled + 1.11 M_cid0000068_c_reconciled + M_cid0000095_c_reconciled
+M_cid0000015_c + 0.37 M_cid0000068_c + M_cid0000081_c <-> M_cid0000095_c_reconciled + M_cid0000564_c_reconciled
+M_cid0000001_c + M_cid0000343_c -> M_cid0000049_c_reconciled + 1.6 M_cid0000068_c_reconciled + M_cid0000081_c
+M_cid0000054_c + 0.38 M_cid0000068_c + M_cid0000081_c <-> M_cid0000012_c + M_cid0000343_c_reconciled
+M_cid0000081_c + M_cid0000217_c <-> M_cid0000049_c_reconciled + M_cid0000776_c_reconciled
+M_cid0000217_c + M_cid0000251_c <-> M_cid0000049_c_reconciled + M_cid0001003_c
+M_cid0000042_c + M_cid0000251_c <-> M_cid0000001_c_reconciled + M_cid0000850_c
+2.0 M_cid0000045_c + M_cid0002451_c <-> M_cid0000001_c_reconciled + M_cid0000110_c + M_cid0002449_c
+2.0 M_cid0000045_c + M_cid0002462_c <-> M_cid0000001_c_reconciled + M_cid0000110_c + M_cid0002448_c
+M_cid0000037_c + M_cid0001857_c <-> M_cid0000010_c_reconciled + M_cid0001991_c
+M_cid0000156_c -> M_cid0000013_c_reconciled + 0.01 M_cid0000068_c_reconciled + M_cid0000072_c_reconciled
+M_cid0000001_c + M_cid0000400_c <-> 0.75 M_cid0000068_c_reconciled + M_cid0000081_c + M_cid0000097_c_reconciled
+M_cid0002440_c <-> M_cid0000011_c_reconciled + M_cid0002424_c
+M_cid0000056_c + M_cid0000217_c <-> M_cid0000049_c_reconciled + M_cid0002440_c
+M_cid0000919_c <-> M_cid0001075_c_reconciled
+M_cid0000002_c + M_cid0000019_c + 0.56 M_cid0000068_c -> 2.0 M_cid0000008_c_reconciled
+M_cid0000012_c + M_cid0000019_c + 0.39 M_cid0000068_c <-> M_cid0000102_c + M_cid0000127_c_reconciled
+M_cid0000002_c + 0.57 M_cid0000068_c + M_cid0000126_c <-> M_cid0000008_c_reconciled + M_cid0000032_c_reconciled
+M_cid0000021_c + M_cid0000041_c -> M_cid0000032_c_reconciled + M_cid0000062_c + 0.91 M_cid0000068_c_reconciled
+0.14 M_cid0000068_c + M_cid0000872_c <-> M_cid0000001_c_reconciled + M_cid0000113_c_reconciled
+M_cid0000001_c + M_cid0000003_c + M_cid0000113_c -> M_cid0000004_c_reconciled + M_cid0000068_c_reconciled + M_cid0000395_c
+M_cid0000006_c + M_cid0000013_c + M_cid0000113_c -> M_cid0000005_c_reconciled + 1.98 M_cid0000068_c_reconciled + M_cid0000126_c_reconciled
+M_cid0000062_c + 0.9 M_cid0000068_c + M_cid0000165_c -> M_cid0000021_c_reconciled + M_cid0000114_c_reconciled
+M_cid0000001_c + 0.95 M_cid0000068_c + M_cid0000127_c -> M_cid0000013_c_reconciled + M_cid0000206_c
+M_cid0000002_c + 0.56 M_cid0000068_c + M_cid0000275_c <-> M_cid0000008_c_reconciled + M_cid0000165_c_reconciled
+M_cid0000001_c + 0.96 M_cid0000068_c + M_cid0000169_c -> M_cid0000013_c_reconciled + M_cid0000227_c_reconciled
+0.32 M_cid0000068_c + M_cid0000127_c + M_cid0000376_c <-> M_cid0000009_c + M_cid0000169_c_reconciled
+M_cid0000001_c + 0.89 M_cid0000068_c + M_cid0000188_c -> M_cid0000013_c_reconciled + M_cid0000284_c
+M_cid0000021_c + M_cid0000224_c -> M_cid0000062_c + 0.91 M_cid0000068_c_reconciled + M_cid0000276_c_reconciled
+M_cid0000009_c + M_cid0000227_c <-> 0.33 M_cid0000068_c_reconciled + M_cid0000206_c + M_cid0000376_c
+M_cid0000002_c + M_cid0000243_c <-> M_cid0000008_c_reconciled + 0.84 M_cid0000068_c_reconciled + M_cid0000277_c_reconciled
+M_cid0000001_c + 0.32 M_cid0000068_c + M_cid0000277_c -> M_cid0000009_c + M_cid0000243_c_reconciled
+M_cid0000009_c + M_cid0000243_c <-> 0.26 M_cid0000068_c_reconciled + M_cid0000188_c + M_cid0000402_c
+M_cid0000002_c + M_cid0000249_c -> M_cid0000001_c_reconciled + M_cid0000114_c_reconciled + M_cid0000250_c
+M_cid0000001_c + M_cid0000165_c + M_cid0000250_c -> M_cid0000008_c_reconciled + M_cid0000249_c
+M_cid0000001_c + M_cid0000250_c + M_cid0000276_c -> M_cid0000032_c_reconciled + M_cid0000249_c
+M_cid0000001_c + M_cid0000224_c + M_cid0000250_c -> M_cid0000041_c_reconciled + M_cid0000249_c
+M_cid0000001_c + 0.32 M_cid0000068_c + M_cid0000275_c -> M_cid0000009_c + M_cid0000360_c_reconciled
+M_cid0000002_c + M_cid0000360_c -> M_cid0000008_c_reconciled + 0.85 M_cid0000068_c_reconciled + M_cid0000275_c_reconciled
+M_cid0000002_c + 0.57 M_cid0000068_c + M_cid0000277_c <-> M_cid0000008_c_reconciled + M_cid0000276_c_reconciled
+M_cid0000001_c + 0.96 M_cid0000068_c + M_cid0000360_c <-> M_cid0000013_c_reconciled + M_cid0000930_c_reconciled
+M_cid0000009_c + M_cid0000360_c <-> 0.25 M_cid0000068_c_reconciled + M_cid0000127_c_reconciled + M_cid0000402_c
+M_cid0000009_c + M_cid0000930_c <-> 0.26 M_cid0000068_c_reconciled + M_cid0000206_c + M_cid0000402_c
+M_cid0000002_c + M_cid0000034_c + 0.47 M_cid0000068_c + M_cid0000712_c <-> M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0000774_c
+M_cid0000002_c + M_cid0000865_c <-> M_cid0000008_c_reconciled + M_cid0000009_c + 0.52 M_cid0000068_c_reconciled + M_cid0000740_c
+1.01 M_cid0000068_c + M_cid0000874_c <-> M_cid0000011_c_reconciled + M_cid0000740_c
+M_cid0000001_c + M_cid0000002_c + M_cid0000055_c + M_cid0000829_c <-> M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0000024_c_reconciled + 1.54 M_cid0000068_c_reconciled + M_cid0000865_c
+M_cid0000002_c + M_cid0000044_c + M_cid0000874_c <-> M_cid0000008_c_reconciled + M_cid0000009_c + 1.35 M_cid0000068_c_reconciled + M_cid0000878_c + M_cid0000879_c
+M_cid0000002_c + M_cid0000014_c <-> M_cid0000008_c_reconciled + M_cid0000063_c_reconciled
+M_cid0000002_c + 0.57 M_cid0000068_c + M_cid0000091_c <-> M_cid0000008_c_reconciled + M_cid0000014_c_reconciled
+M_cid0000002_c + M_cid0000049_c + 0.57 M_cid0000068_c <-> M_cid0000008_c_reconciled + M_cid0000096_c_reconciled
+M_cid0000002_c + M_cid0000326_c <-> M_cid0000008_c_reconciled + M_cid0000049_c_reconciled + 0.84 M_cid0000068_c_reconciled
+M_cid0000063_c + M_cid0000326_c <-> M_cid0000014_c_reconciled + M_cid0000049_c_reconciled + 0.85 M_cid0000068_c_reconciled
+M_cid0000041_c + M_cid0000326_c <-> M_cid0000032_c_reconciled + M_cid0000049_c_reconciled + 0.85 M_cid0000068_c_reconciled
+M_cid0000001_c + M_cid0000054_c + 0.99 M_cid0000068_c -> M_cid0000013_c_reconciled + M_cid0000063_c_reconciled
+M_cid0000002_c + M_cid0000096_c <-> M_cid0000008_c_reconciled + M_cid0000054_c_reconciled
+M_cid0000001_c + M_cid0000002_c + M_cid0000055_c + M_cid0000063_c -> M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0000024_c_reconciled + M_cid0000054_c_reconciled + 1.53 M_cid0000068_c_reconciled
+M_cid0000002_c + M_cid0000229_c -> M_cid0000008_c_reconciled + 0.84 M_cid0000068_c_reconciled + M_cid0000091_c_reconciled
+0.96 M_cid0000068_c + M_cid0000504_c -> M_cid0000011_c_reconciled + M_cid0000091_c_reconciled
+M_cid0000092_c + M_cid0000102_c <-> M_cid0000012_c + 0.37 M_cid0000068_c_reconciled + M_cid0000091_c_reconciled
+M_cid0000063_c + M_cid0000229_c <-> M_cid0000014_c_reconciled + 0.85 M_cid0000068_c_reconciled + M_cid0000091_c_reconciled
+M_cid0000041_c + M_cid0000229_c <-> M_cid0000032_c_reconciled + 0.85 M_cid0000068_c_reconciled + M_cid0000091_c_reconciled
+M_cid0000001_c + 0.98 M_cid0000068_c + M_cid0000283_c -> M_cid0000013_c_reconciled + M_cid0000092_c_reconciled
+M_cid0000114_c + M_cid0000326_c <-> M_cid0000049_c_reconciled + 0.84 M_cid0000068_c_reconciled + M_cid0000165_c_reconciled
+M_cid0000114_c + M_cid0000229_c <-> 0.84 M_cid0000068_c_reconciled + M_cid0000091_c_reconciled + M_cid0000165_c_reconciled
+M_cid0000008_c + 0.84 M_cid0000068_c + M_cid0000279_c <-> M_cid0000002_c_reconciled + M_cid0000171_c_reconciled
+M_cid0000009_c + M_cid0000171_c <-> 0.26 M_cid0000068_c_reconciled + M_cid0000146_c + M_cid0000402_c
+M_cid0000001_c + 0.98 M_cid0000068_c + M_cid0000187_c -> M_cid0000013_c_reconciled + M_cid0000280_c_reconciled
+M_cid0000001_c + 0.32 M_cid0000068_c + M_cid0000187_c -> M_cid0000009_c + M_cid0000453_c_reconciled
+M_cid0000003_c + M_cid0000247_c <-> M_cid0000004_c_reconciled + 0.98 M_cid0000068_c_reconciled + M_cid0000228_c_reconciled
+M_cid0000012_c + 0.34 M_cid0000068_c + M_cid0000504_c <-> M_cid0000102_c + M_cid0000228_c_reconciled
+M_cid0000001_c + 0.98 M_cid0000068_c + M_cid0000326_c -> M_cid0000013_c_reconciled + M_cid0000229_c_reconciled
+M_cid0000224_c + M_cid0000229_c <-> 0.85 M_cid0000068_c_reconciled + M_cid0000091_c_reconciled + M_cid0000276_c_reconciled
+M_cid0000001_c + M_cid0000247_c <-> 0.97 M_cid0000068_c_reconciled + M_cid0000310_c_reconciled
+M_cid0000006_c + M_cid0000249_c -> M_cid0000005_c_reconciled + M_cid0000068_c_reconciled + M_cid0000250_c
+M_cid0000001_c + M_cid0000250_c + M_cid0000320_c -> M_cid0000054_c_reconciled + M_cid0000249_c
+M_cid0000001_c + M_cid0000250_c + M_cid0000322_c -> M_cid0000063_c_reconciled + M_cid0000249_c
+M_cid0000224_c + M_cid0000326_c <-> M_cid0000049_c_reconciled + 0.85 M_cid0000068_c_reconciled + M_cid0000276_c_reconciled
+M_cid0000002_c + M_cid0000278_c -> M_cid0000008_c_reconciled + M_cid0000321_c
+M_cid0000002_c + 0.57 M_cid0000068_c + M_cid0000279_c <-> M_cid0000008_c_reconciled + M_cid0000278_c_reconciled
+M_cid0000321_c + M_cid0000326_c <-> M_cid0000049_c_reconciled + 0.85 M_cid0000068_c_reconciled + M_cid0000278_c_reconciled
+M_cid0000229_c + M_cid0000321_c <-> 0.85 M_cid0000068_c_reconciled + M_cid0000091_c_reconciled + M_cid0000278_c_reconciled
+M_cid0000002_c + M_cid0000346_c <-> M_cid0000008_c_reconciled + 0.84 M_cid0000068_c_reconciled + M_cid0000280_c_reconciled
+M_cid0000001_c + M_cid0000322_c -> M_cid0000012_c + 1.22 M_cid0000068_c_reconciled + M_cid0000280_c_reconciled
+M_cid0000009_c + M_cid0000326_c <-> 0.32 M_cid0000068_c_reconciled + M_cid0000283_c_reconciled + M_cid0000376_c
+M_cid0000001_c + 0.99 M_cid0000068_c + M_cid0000320_c -> M_cid0000013_c_reconciled + M_cid0000322_c_reconciled
+M_cid0000002_c + M_cid0000422_c -> M_cid0000008_c_reconciled + M_cid0000320_c_reconciled
+M_cid0000229_c + M_cid0000320_c <-> 0.85 M_cid0000068_c_reconciled + M_cid0000091_c_reconciled + M_cid0000422_c_reconciled
+M_cid0000229_c + M_cid0000322_c -> 0.85 M_cid0000068_c_reconciled + M_cid0000091_c_reconciled + M_cid0000563_c_reconciled
+M_cid0000320_c + M_cid0000326_c <-> M_cid0000049_c_reconciled + 0.85 M_cid0000068_c_reconciled + M_cid0000422_c_reconciled
+M_cid0000322_c + M_cid0000326_c -> M_cid0000049_c_reconciled + 0.85 M_cid0000068_c_reconciled + M_cid0000563_c_reconciled
+M_cid0000009_c + M_cid0000346_c <-> 0.26 M_cid0000068_c_reconciled + M_cid0000092_c_reconciled + M_cid0000402_c
+M_cid0000001_c + 0.98 M_cid0000068_c + M_cid0000453_c -> M_cid0000013_c_reconciled + M_cid0000346_c_reconciled
+M_cid0000002_c + M_cid0000024_c + 0.2 M_cid0000068_c <-> M_cid0000008_c_reconciled + M_cid0000731_c_reconciled
+M_cid0000023_c + M_cid0000024_c <-> M_cid0000010_c_reconciled + M_cid0000377_c_reconciled
+M_cid0000024_c + 2.19 M_cid0000068_c + M_cid0000309_c <-> M_cid0000065_c + M_cid0000377_c_reconciled
+M_cid0000025_c + M_cid0000309_c <-> M_cid0000024_c_reconciled + 0.69 M_cid0000068_c_reconciled + M_cid0000544_c
+M_cid0000002_c + 0.19 M_cid0000068_c + M_cid0000377_c <-> M_cid0000008_c_reconciled + M_cid0000807_c
+M_cid0000006_c + M_cid0000009_c + M_cid0000520_c <-> M_cid0000005_c_reconciled + 1.28 M_cid0000068_c_reconciled + M_cid0000731_c_reconciled
+M_cid0000006_c + M_cid0000009_c + M_cid0000544_c <-> M_cid0000005_c_reconciled + 1.29 M_cid0000068_c_reconciled + M_cid0000807_c
+M_cid0000021_c + M_cid0000065_c <-> M_cid0000038_c_reconciled + 2.86 M_cid0000068_c_reconciled + M_cid0000520_c_reconciled
+M_cid0000001_c + M_cid0000002_c -> M_cid0000008_c_reconciled + M_cid0000009_c + 0.52 M_cid0000068_c_reconciled
+M_cid0000002_c -> M_cid0000012_c + 0.37 M_cid0000068_c_reconciled + M_cid0000363_c
+M_cid0000002_c + M_cid0000041_c <-> M_cid0000019_c_reconciled + 0.84 M_cid0000068_c_reconciled + M_cid0000852_c
+M_cid0000041_c -> M_cid0000012_c + 0.37 M_cid0000068_c_reconciled + M_cid0002432_c
+M_cid0000001_c + M_cid0000230_c <-> M_cid0000019_c_reconciled + 1.69 M_cid0000068_c_reconciled + M_cid0000100_c
+M_cid0000002_c + M_cid0000013_c + M_cid0000395_c <-> M_cid0000012_c + M_cid0000019_c_reconciled + 2.19 M_cid0000068_c_reconciled + M_cid0000126_c_reconciled
+M_cid0000009_c + M_cid0000285_c <-> 0.33 M_cid0000068_c_reconciled + M_cid0000188_c + M_cid0000376_c
+M_cid0000009_c + M_cid0000613_c <-> 0.42 M_cid0000068_c_reconciled + M_cid0000284_c + M_cid0000376_c
+M_cid0000001_c + M_cid0000852_c -> M_cid0000009_c + 0.53 M_cid0000068_c_reconciled + M_cid0000539_c
+M_cid0000001_c + M_cid0000645_c <-> 0.92 M_cid0000068_c_reconciled + M_cid0000565_c
+M_cid0000001_c + M_cid0001034_c <-> 0.93 M_cid0000068_c_reconciled + M_cid0001033_c
+M_cid0002197_c <-> 0.09 M_cid0000068_c_reconciled + M_cid0000874_c
+M_cid0000001_c + M_cid0000250_c + M_cid0000563_c <-> M_cid0000014_c_reconciled + M_cid0000249_c
+M_cid0000001_c + M_cid0000250_c + M_cid0000422_c -> M_cid0000096_c_reconciled + M_cid0000249_c
+M_cid0000009_c + M_cid0000346_c <-> 0.26 M_cid0000068_c_reconciled + M_cid0000092_c_reconciled + M_cid0000402_c
+M_cid0000001_c + M_cid0000647_c <-> 0.92 M_cid0000068_c_reconciled + M_cid0000566_c
+M_cid0000001_c + M_cid0000646_c <-> 0.92 M_cid0000068_c_reconciled + M_cid0000974_c
+M_cid0000003_c + M_cid0002471_c <-> M_cid0000004_c_reconciled + M_cid0000068_c_reconciled + M_cid0002143_c
+0.49 M_cid0000068_c + M_cid0000089_c + M_cid0000321_c <-> M_cid0000012_c + M_cid0000442_c_reconciled
+M_cid0000006_c + M_cid0000735_c <-> M_cid0000005_c_reconciled + M_cid0000068_c_reconciled + M_cid0000413_c
+M_cid0000442_c -> M_cid0000001_c_reconciled + M_cid0001106_c
+M_cid0000112_c + M_cid0000317_c <-> M_cid0000012_c + 0.37 M_cid0000068_c_reconciled + M_cid0001088_c_reconciled
+7.0 M_cid0000112_c + M_cid0001088_c <-> 7.0 M_cid0000012_c + 2.6 M_cid0000068_c_reconciled + M_cid0000857_c
+M_cid0000001_c + M_cid0000006_c + M_cid0000183_c -> M_cid0000005_c_reconciled + M_cid0000068_c_reconciled + M_cid0001102_c_reconciled
+M_cid0000001_c + M_cid0000003_c + M_cid0000112_c -> M_cid0000004_c_reconciled + M_cid0000068_c_reconciled + M_cid0001102_c_reconciled
+M_cid0000001_c + M_cid0000003_c + M_cid0000183_c -> M_cid0000004_c_reconciled + M_cid0000068_c_reconciled + M_cid0001102_c_reconciled
+1.72 M_cid0000068_c + M_cid0000121_c + M_cid0001093_c -> M_cid0000001_c_reconciled + M_cid0000122_c + M_cid0001102_c_reconciled
+M_cid0000001_c + M_cid0000002_c + M_cid0000081_e -> M_cid0000008_c_reconciled + M_cid0000009_c + 0.52 M_cid0000068_c_reconciled + M_cid0000081_c
+M_cid0000001_c + M_cid0000002_c + M_cid0000055_e -> M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0000055_c_reconciled + 0.52 M_cid0000068_c_reconciled
+M_cid0000001_c + M_cid0000002_c + M_cid0000034_e -> M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0000034_c_reconciled + 0.52 M_cid0000068_c_reconciled
+M_cid0000001_c + M_cid0000002_c + M_cid0000128_e -> M_cid0000008_c_reconciled + M_cid0000009_c + 0.52 M_cid0000068_c_reconciled + M_cid0000128_c_reconciled
+M_cid0000001_c + M_cid0000002_c + M_cid0000061_e -> M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0000061_c_reconciled + 0.52 M_cid0000068_c_reconciled
+M_cid0000001_c + M_cid0000002_c + M_cid0000117_c -> M_cid0000008_c_reconciled + M_cid0000009_c + 0.52 M_cid0000068_c_reconciled + M_cid0000117_e_reconciled
+M_cid0000001_c + M_cid0000002_c + M_cid0000104_e -> M_cid0000008_c_reconciled + M_cid0000009_c + 0.52 M_cid0000068_c_reconciled + M_cid0000104_c_reconciled
+M_cid0000001_c + M_cid0000002_c + M_cid0000237_c -> M_cid0000008_c_reconciled + M_cid0000009_c + 0.52 M_cid0000068_c_reconciled + M_cid0000237_e_reconciled
+M_cid0000068_e + M_cid0000156_e -> M_cid0000068_c_reconciled + M_cid0000156_c
+M_cid0000042_e + M_cid0000068_e -> M_cid0000042_c_reconciled + M_cid0000068_c_reconciled
+M_cid0000068_e + M_cid0000129_e -> M_cid0000068_c_reconciled + M_cid0000129_c
+M_cid0000068_e + M_cid0000293_e -> M_cid0000068_c_reconciled + M_cid0000293_c_reconciled
+M_cid0000068_e + M_cid0000106_e -> M_cid0000068_c_reconciled + M_cid0000106_c_reconciled
+M_cid0000068_e + M_cid0000151_e -> M_cid0000068_c_reconciled + M_cid0000151_c_reconciled
+M_cid0000024_e + M_cid0000068_e -> M_cid0000024_c_reconciled + M_cid0000068_c_reconciled
+M_cid0000050_e + M_cid0000068_c -> M_cid0000050_c + M_cid0000068_e_reconciled
+M_cid0000068_e + M_cid0000190_c -> M_cid0000068_c_reconciled + M_cid0000190_e
+M_cid0000068_e + M_cid0000203_e -> M_cid0000068_c_reconciled + M_cid0000203_c
+M_cid0000042_c + M_cid0000068_e -> M_cid0000042_e_reconciled + M_cid0000068_c_reconciled
+M_cid0000099_e -> M_cid0000099_c_reconciled
+M_cid0000068_e + M_cid0000092_e -> M_cid0000068_c_reconciled + M_cid0000092_c_reconciled
+M_cid0000068_e + M_cid0000284_e -> M_cid0000068_c_reconciled + M_cid0000284_c
+M_cid0000001_c + M_cid0000002_c + M_cid0000153_e -> M_cid0000008_c_reconciled + M_cid0000009_c + 0.52 M_cid0000068_c_reconciled + M_cid0000153_c
+M_cid0000062_c + 0.06 M_cid0000068_c + M_cid0000083_e -> M_cid0000021_c_reconciled + M_cid0000073_c_reconciled
+M_cid0000062_c + 0.04 M_cid0000068_c + M_cid0000083_e -> M_cid0000021_c_reconciled + M_cid0000497_c
+M_cid0000062_c + 0.15 M_cid0000068_c + M_cid0000607_e -> M_cid0000021_c_reconciled + M_cid0001048_c_reconciled
+M_cid0000062_c + 0.06 M_cid0000068_c + M_cid0000189_e -> M_cid0000021_c_reconciled + M_cid0000922_c_reconciled
+M_cid0000062_c + 0.15 M_cid0000068_c + M_cid0000288_e -> M_cid0000021_c_reconciled + M_cid0000392_c_reconciled
+M_cid0000062_c + 0.06 M_cid0000068_c + M_cid0000136_e -> M_cid0000021_c_reconciled + M_cid0000220_c_reconciled
+M_cid0000062_c + 0.06 M_cid0000068_c + M_cid0000123_e -> M_cid0000021_c_reconciled + M_cid0000274_c_reconciled
+M_cid0000062_c + 0.06 M_cid0000068_c + M_cid0000077_e -> M_cid0000021_c_reconciled + M_cid0000662_c
+M_cid0000068_e + M_cid0000154_e <-> M_cid0000068_c_reconciled + M_cid0000154_c
+M_cid0000011_c -> M_cid0000011_e_reconciled
+M_cid0000001_e <-> M_cid0000001_c_reconciled
+M_cid0000068_e + M_cid0000186_e <-> M_cid0000068_c_reconciled + M_cid0000186_c
+M_cid0000013_e + 0.99 M_cid0000068_c <-> M_cid0000013_c_reconciled + 0.99 M_cid0000068_e_reconciled
+M_cid0000001_c + M_cid0000002_c + M_cid0000190_e -> M_cid0000008_c_reconciled + M_cid0000009_c + 0.52 M_cid0000068_c_reconciled + M_cid0000190_c
+M_cid0000001_c + M_cid0000002_c + M_cid0000009_e -> M_cid0000008_c_reconciled + 2.0 M_cid0000009_c + 0.52 M_cid0000068_c_reconciled
+M_cid0000009_e + M_cid0000068_e -> M_cid0000009_c + M_cid0000068_c_reconciled
+M_cid0000028_e + M_cid0000062_c + 0.06 M_cid0000068_c -> M_cid0000021_c_reconciled + M_cid0000080_c
+M_cid0000001_c + M_cid0000002_c + M_cid0000051_e -> M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0000051_c + 0.52 M_cid0000068_c_reconciled
+M_cid0001027_e -> M_cid0001027_c_reconciled
+0.99 M_cid0000068_e + M_cid0000192_e <-> 0.99 M_cid0000068_c_reconciled + M_cid0000192_c
+M_cid0000030_e + M_cid0000068_e <-> M_cid0000030_c_reconciled + M_cid0000068_c_reconciled
+M_cid0000068_e + M_cid0000103_e -> M_cid0000068_c_reconciled + M_cid0000103_c
+M_cid0000068_e + M_cid0000362_e -> M_cid0000068_c_reconciled + M_cid0000362_c
+M_cid0000028_e + M_cid0000068_e -> M_cid0000028_c_reconciled + M_cid0000068_c_reconciled
+M_cid0000001_c + M_cid0000002_c + M_cid0000028_e -> M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0000028_c_reconciled + 0.52 M_cid0000068_c_reconciled
+3.0 M_cid0000068_e + 2.0 M_cid0000559_c <-> 3.0 M_cid0000068_c_reconciled + 2.0 M_cid0000559_e
+M_cid0000008_c + M_cid0000009_c + 3.0 M_cid0000068_e <-> M_cid0000001_c_reconciled + M_cid0000002_c_reconciled + 2.48 M_cid0000068_c_reconciled
+M_cid0000008_c + M_cid0000009_c + 0.52 M_cid0000068_c + M_cid0000559_e <-> M_cid0000001_c_reconciled + M_cid0000002_c_reconciled + M_cid0000559_c
+M_cid0000001_c + M_cid0000002_c + M_cid0000324_c -> M_cid0000008_c_reconciled + M_cid0000009_c + 0.52 M_cid0000068_c_reconciled + M_cid0000324_e
+M_cid0000030_e + M_cid0000244_c -> M_cid0000023_c_reconciled + M_cid0000139_c_reconciled
+M_cid0000192_e + M_cid0000244_c -> 0.01 M_cid0000068_c_reconciled + M_cid0000119_c + M_cid0000139_c_reconciled
+M_cid0000039_c + M_cid0000068_c -> M_cid0000039_e + M_cid0000068_e_reconciled
+M_cid0000068_e + M_cid0000155_c -> M_cid0000068_c_reconciled + M_cid0000155_e
+M_cid0000002_c + 0.63 M_cid0000068_c + M_cid0000103_c <-> M_cid0000012_c + M_cid0000986_c_reconciled
+M_cid0000986_c <-> M_cid0000019_c_reconciled + M_cid0001045_c_reconciled
+M_cid0000001_c + M_cid0000041_c <-> M_cid0000987_c_reconciled
+M_cid0000003_c + M_cid0000088_c -> M_cid0000004_c_reconciled + M_cid0000068_c_reconciled + M_cid0000338_c
+M_cid0000006_c + M_cid0000088_c -> M_cid0000005_c_reconciled + M_cid0000068_c_reconciled + M_cid0000295_c_reconciled
+M_cid0000006_c + M_cid0000088_c -> M_cid0000005_c_reconciled + M_cid0000068_c_reconciled + M_cid0000338_c
+M_cid0000006_c + M_cid0000295_c -> M_cid0000005_c_reconciled + M_cid0000068_c_reconciled + M_cid0000338_c
+M_cid0000002_c + M_cid0000024_c + 0.47 M_cid0000068_c + M_cid0000463_c <-> M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0000295_c_reconciled
+M_cid0000362_c + M_cid0000877_c -> M_cid0000012_c + 0.37 M_cid0000068_c_reconciled + M_cid0000463_c_reconciled
+M_cid0000002_c + M_cid0000555_c <-> M_cid0000019_c_reconciled + 0.84 M_cid0000068_c_reconciled + M_cid0000877_c
+M_cid0000881_c <-> M_cid0000208_c_reconciled + M_cid0000555_c
+M_cid0000009_c + M_cid0000881_c <-> M_cid0000001_c_reconciled + 0.23 M_cid0000068_c_reconciled + M_cid0000989_c
+M_cid0000001_c + M_cid0000885_c <-> M_cid0000012_c + 1.13 M_cid0000068_c_reconciled + M_cid0000989_c
+M_cid0000001_c + M_cid0000987_c <-> M_cid0000050_c + M_cid0000068_c_reconciled + M_cid0000988_c_reconciled
+M_cid0000002_c + M_cid0000003_c -> M_cid0000006_c + M_cid0000008_c_reconciled + 0.93 M_cid0000068_c_reconciled
+1.33 M_cid0000068_c + M_cid0000131_c + M_cid0000376_c <-> M_cid0000009_c + M_cid0000719_c_reconciled
+M_cid0000001_c + M_cid0000319_c <-> M_cid0000013_c_reconciled + 0.01 M_cid0000068_c_reconciled + M_cid0000528_c_reconciled
+M_cid0000009_c + M_cid0000719_c <-> M_cid0000001_c_reconciled + 0.32 M_cid0000068_c_reconciled + M_cid0000319_c
+M_cid0000011_c + M_cid0000012_c + M_cid0000528_c -> 1.62 M_cid0000068_c_reconciled + M_cid0000102_c + M_cid0000767_c
+2.0 M_cid0000001_c + M_cid0000009_c + M_cid0000767_c <-> 0.33 M_cid0000068_c_reconciled + M_cid0000095_c_reconciled + M_cid0000975_c
+2.0 M_cid0000068_c + M_cid0000121_c + M_cid0000125_c <-> M_cid0000122_c + M_cid0000312_c_reconciled
+M_cid0000001_c + M_cid0000314_c <-> M_cid0000068_c_reconciled + M_cid0000182_c
+M_cid0000125_c + M_cid0000280_c <-> M_cid0000279_c_reconciled + M_cid0000295_c_reconciled
+M_cid0000068_c + M_cid0000750_c <-> M_cid0000001_c_reconciled + M_cid0000314_c_reconciled
+M_cid0000002_c + 0.48 M_cid0000068_c + M_cid0000750_c -> M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0000314_c_reconciled
+M_cid0000001_c + M_cid0000314_c + M_cid0000774_c -> M_cid0000068_c_reconciled + M_cid0000088_c + M_cid0000829_c
+M_cid0000182_c + M_cid0000868_c <-> 0.16 M_cid0000068_c_reconciled + M_cid0000088_c + M_cid0000872_c
+M_cid0000011_c + M_cid0000459_c -> 2.0 M_cid0000021_c_reconciled + M_cid0000068_c_reconciled
+M_cid0000002_c + M_cid0000454_c -> M_cid0000008_c_reconciled + M_cid0000010_c_reconciled + 0.91 M_cid0000068_c_reconciled
+M_cid0000796_c -> M_cid0000001_c_reconciled + M_cid0000124_c
+M_cid0000025_c + M_cid0000151_c <-> M_cid0000024_c_reconciled + 0.04 M_cid0000068_c_reconciled + M_cid0000124_c
+M_cid0000001_c + M_cid0000124_c + M_cid0000125_c <-> M_cid0000088_c + M_cid0000470_c_reconciled
+M_cid0000006_c + M_cid0000345_c -> M_cid0000005_c_reconciled + M_cid0000068_c_reconciled + M_cid0000470_c_reconciled
+M_cid0000002_c + M_cid0000448_c -> M_cid0000008_c_reconciled + 0.6 M_cid0000068_c_reconciled + M_cid0000751_c
+M_cid0000002_c + 0.23 M_cid0000068_c + M_cid0000512_c <-> M_cid0000012_c + M_cid0000454_c_reconciled
+M_cid0000068_c + M_cid0000828_c -> M_cid0000011_c_reconciled + M_cid0000512_c
+M_cid0000054_c + 0.46 M_cid0000068_c + M_cid0000085_c + M_cid0000751_c -> M_cid0000009_c + M_cid0000096_c_reconciled + M_cid0000828_c_reconciled
+M_cid0000002_c + M_cid0000052_c + 0.39 M_cid0000068_c -> M_cid0000012_c + M_cid0000015_c_reconciled
+3.0 M_cid0000001_c + M_cid0000041_c <-> M_cid0000012_c + M_cid0000050_c + 2.22 M_cid0000068_c_reconciled + M_cid0000557_c_reconciled
+M_cid0000002_c + M_cid0000201_c -> M_cid0000008_c_reconciled + M_cid0000052_c_reconciled + 0.75 M_cid0000068_c_reconciled
+M_cid0000006_c + M_cid0000845_c <-> M_cid0000005_c_reconciled + 0.85 M_cid0000068_c_reconciled + M_cid0000548_c_reconciled
+M_cid0000001_c + 0.98 M_cid0000068_c + M_cid0000557_c -> M_cid0000013_c_reconciled + M_cid0000548_c_reconciled
+M_cid0000009_c + M_cid0000826_c <-> 1.8 M_cid0000068_c_reconciled + M_cid0000100_c + M_cid0000845_c_reconciled
+M_cid0000002_c + M_cid0000871_c -> M_cid0000001_c_reconciled + M_cid0000008_c_reconciled + 0.85 M_cid0000068_c_reconciled + M_cid0000548_c_reconciled
+M_cid0000002_c + 0.39 M_cid0000068_c + M_cid0000493_c <-> M_cid0000008_c_reconciled + M_cid0000058_c
+M_cid0000002_c + M_cid0000282_c <-> M_cid0000019_c_reconciled + M_cid0000058_c + 0.87 M_cid0000068_c_reconciled
+M_cid0000002_c + M_cid0000551_c <-> M_cid0000008_c_reconciled + 0.7 M_cid0000068_c_reconciled + M_cid0000855_c
+M_cid0000551_c -> 1.98 M_cid0000068_c_reconciled + M_cid0000740_c
+M_cid0000002_c + 0.31 M_cid0000068_c + M_cid0000855_c <-> M_cid0000008_c_reconciled + M_cid0000875_c
+M_cid0000021_c + 1.03 M_cid0000068_c + M_cid0000101_c -> M_cid0000011_c_reconciled + M_cid0001092_c_reconciled
+M_cid0000034_c + 1.09 M_cid0000068_c + M_cid0000085_c + M_cid0001092_c <-> 3.0 M_cid0000001_c_reconciled + M_cid0000011_c_reconciled + M_cid0000038_c_reconciled + M_cid0000825_c_reconciled
+M_cid0000197_c <-> M_cid0000455_c_reconciled
+M_cid0000002_c + M_cid0000010_c + M_cid0000673_c <-> M_cid0000012_c + M_cid0000019_c_reconciled + 0.21 M_cid0000068_c_reconciled + M_cid0000720_c
+M_cid0000720_c -> M_cid0000010_c_reconciled + 0.01 M_cid0000068_c_reconciled + M_cid0000764_c
+M_cid0000018_c + M_cid0000971_c <-> M_cid0000020_c_reconciled + M_cid0000441_c
+0.63 M_cid0000068_c + M_cid0000764_c + M_cid0000808_c -> M_cid0000011_c_reconciled + M_cid0000012_c + M_cid0000971_c
+M_cid0000025_c + M_cid0000068_c + M_cid0000455_c -> M_cid0000011_c_reconciled + M_cid0000021_c_reconciled + M_cid0000970_c
+2.0 M_cid0000018_c + 2.0 M_cid0000068_c + M_cid0000075_c + M_cid0000623_c + 2.0 M_cid0001915_c <-> 2.0 M_cid0000061_c_reconciled + M_cid0000103_c + 2.0 M_cid0000894_c_reconciled
+M_cid0000002_c + M_cid0000011_c + M_cid0000483_c <-> M_cid0000008_c_reconciled + M_cid0000009_c + 3.04 M_cid0000068_c_reconciled + M_cid0000623_c_reconciled
+M_cid0000018_c + 1.44 M_cid0000068_c + M_cid0000496_c <-> M_cid0000483_c_reconciled + M_cid0000836_c_reconciled
+M_cid0000002_c + M_cid0000024_c + 0.47 M_cid0000068_c + M_cid0000088_c <-> M_cid0000008_c_reconciled + M_cid0000009_c + M_cid0001082_c
+M_cid0000362_c + M_cid0000555_c -> M_cid0000001_c_reconciled + M_cid0000463_c_reconciled
+M_cid0000885_c <-> 0.28 M_cid0000068_c_reconciled + M_cid0000351_c + M_cid0002442_c
+M_cid0000012_c + M_cid0000528_c <-> 0.63 M_cid0000068_c_reconciled + M_cid0000102_c + M_cid0000199_c
+M_cid0000009_c + M_cid0000976_c <-> 1.33 M_cid0000068_c_reconciled + M_cid0000199_c + M_cid0000376_c
+M_cid0000002_c + M_cid0001745_c <-> M_cid0000008_c_reconciled + 0.6 M_cid0000068_c_reconciled + M_cid0000512_c
+M_cid0000002_c + M_cid0000085_c + M_cid0000751_c -> M_cid0000012_c + M_cid0000019_c_reconciled + 0.22 M_cid0000068_c_reconciled + M_cid0000828_c_reconciled
+M_cid0000054_c + M_cid0000085_c + M_cid0000751_c -> M_cid0000012_c + M_cid0000049_c_reconciled + 0.23 M_cid0000068_c_reconciled + M_cid0000828_c_reconciled
+M_cid0000002_c + M_cid0001863_c <-> M_cid0000008_c_reconciled + 0.6 M_cid0000068_c_reconciled + M_cid0000828_c_reconciled
+M_cid0000002_c + M_cid0001830_c + M_cid0002036_c <-> M_cid0000008_c_reconciled + M_cid0000009_c + 0.45 M_cid0000068_c_reconciled + M_cid0001059_c_reconciled
+M_cid0000528_c + M_cid0000715_c <-> 1.14 M_cid0000068_c_reconciled + M_cid0000199_c + M_cid0000876_c
+M_cid0000162_c -> M_cid0000050_c + 1.03 M_cid0000068_c_reconciled + M_cid0001127_c_reconciled
+M_cid0000134_c + M_cid0000808_c <-> M_cid0000012_c + 0.37 M_cid0000068_c_reconciled + M_cid0000965_c
+M_cid0000002_c + M_cid0000196_c <-> M_cid0000008_c_reconciled + M_cid0000017_c_reconciled + 0.65 M_cid0000068_c_reconciled
+M_cid0000002_c + M_cid0000236_c <-> M_cid0000008_c_reconciled + 0.64 M_cid0000068_c_reconciled + M_cid0000378_c_reconciled
+M_cid0000002_c + M_cid0000350_c <-> M_cid0000008_c_reconciled + 1.74 M_cid0000068_c_reconciled + M_cid0000394_c_reconciled
+M_cid0000001_c + 0.16 M_cid0000068_c + M_cid0001023_c <-> M_cid0000009_c + M_cid0001024_c_reconciled
+M_cid0000055_c + 0.79 M_cid0000068_c + M_cid0000101_c + M_cid0000162_c -> M_cid0000017_c_reconciled + M_cid0000024_c_reconciled
