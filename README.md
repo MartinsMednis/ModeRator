@@ -4,13 +4,14 @@ ModeRator - The Model Comparator is aiming to help modelers to identify common e
 To run the program cd into src/ and run ./moderator_gtk.py
 
 ## How to install depencencies on Fedora 23
+You might need to have RPM Fusion repository enabled.
 
     dnf install python-Levenshtein python-xlrd libsbml python-libsbml
 
 ## How to install depencencies on Ubuntu
 ### Step 1 - install compiler and compile libSBML with Python bindings.
 
-Sbml.org provided libSBML packages do not contain Python bindings. Therefore we have to compile it manually. First, install compiler.
+First, install compiler.
 
     apt-get install build-essential
     apt-get install python2.7-dev
