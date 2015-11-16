@@ -800,7 +800,7 @@ class GUI:
 				if pair[col_appr]: ## the 5. is for approve
 					s_i = 0
 					for s in r.substrates:
-						if s.ref == pair[col_idA]: ## 9 is for id_b 
+						if s.ref == pair[col_idA]: ## 9 is for id_b
 							self.model_a.reactions[r_i].substrates[s_i].ref = pair[col_idA]+'_reconciled'
 							self.model_a.reactions[r_i].substrates[s_i].reconciled = True
 							something_changed = True
@@ -835,15 +835,15 @@ class GUI:
 		print(len(self.reconciled_reactions_b),"reactions with reconciled metabolites in B")
 
 		## Write reconciled reactions in a file
-		f = open("reconciled_a.csv", 'w')
-		for r in self.reconciled_reactions_a:
-			f.write(r.to_string("id")+"\n")
-		f.close()
-
-		f = open("reconciled_b.csv", 'w')
-		for r in self.reconciled_reactions_b:
-			f.write(r.to_string("id")+"\n")
-		f.close()
+		# f = open("reconciled_a.csv", 'w')
+		# for r in self.reconciled_reactions_a:
+		# 	f.write(r.to_string("id")+"\n")
+		# f.close()
+		#
+		# f = open("reconciled_b.csv", 'w')
+		# for r in self.reconciled_reactions_b:
+		# 	f.write(r.to_string("id")+"\n")
+		# f.close()
 
 		yield False
 
