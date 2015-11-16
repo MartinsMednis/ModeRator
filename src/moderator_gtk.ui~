@@ -789,17 +789,6 @@ Model B</property>
                                             <property name="visible">True</property>
                                             <property name="can_focus">False</property>
                                             <child>
-                                              <object class="GtkLabel" id="label81">
-                                                <property name="visible">True</property>
-                                                <property name="can_focus">False</property>
-                                              </object>
-                                              <packing>
-                                                <property name="expand">True</property>
-                                                <property name="fill">True</property>
-                                                <property name="position">0</property>
-                                              </packing>
-                                            </child>
-                                            <child>
                                               <object class="GtkLabel" id="label79">
                                                 <property name="visible">True</property>
                                                 <property name="can_focus">False</property>
@@ -807,6 +796,17 @@ Model B</property>
                                               </object>
                                               <packing>
                                                 <property name="expand">False</property>
+                                                <property name="fill">True</property>
+                                                <property name="position">0</property>
+                                              </packing>
+                                            </child>
+                                            <child>
+                                              <object class="GtkLabel" id="label28">
+                                                <property name="visible">True</property>
+                                                <property name="can_focus">False</property>
+                                              </object>
+                                              <packing>
+                                                <property name="expand">True</property>
                                                 <property name="fill">True</property>
                                                 <property name="position">1</property>
                                               </packing>
@@ -841,17 +841,6 @@ Model B</property>
                                             <property name="visible">True</property>
                                             <property name="can_focus">False</property>
                                             <child>
-                                              <object class="GtkLabel" id="label28">
-                                                <property name="visible">True</property>
-                                                <property name="can_focus">False</property>
-                                              </object>
-                                              <packing>
-                                                <property name="expand">True</property>
-                                                <property name="fill">True</property>
-                                                <property name="position">0</property>
-                                              </packing>
-                                            </child>
-                                            <child>
                                               <object class="GtkLabel" id="label11">
                                                 <property name="visible">True</property>
                                                 <property name="can_focus">False</property>
@@ -859,6 +848,17 @@ Model B</property>
                                               </object>
                                               <packing>
                                                 <property name="expand">False</property>
+                                                <property name="fill">True</property>
+                                                <property name="position">0</property>
+                                              </packing>
+                                            </child>
+                                            <child>
+                                              <object class="GtkLabel" id="label29">
+                                                <property name="visible">True</property>
+                                                <property name="can_focus">False</property>
+                                              </object>
+                                              <packing>
+                                                <property name="expand">True</property>
                                                 <property name="fill">True</property>
                                                 <property name="position">1</property>
                                               </packing>
@@ -886,17 +886,6 @@ Model B</property>
                                             <property name="visible">True</property>
                                             <property name="can_focus">False</property>
                                             <child>
-                                              <object class="GtkLabel" id="label30">
-                                                <property name="visible">True</property>
-                                                <property name="can_focus">False</property>
-                                              </object>
-                                              <packing>
-                                                <property name="expand">True</property>
-                                                <property name="fill">True</property>
-                                                <property name="position">0</property>
-                                              </packing>
-                                            </child>
-                                            <child>
                                               <object class="GtkLabel" id="label12">
                                                 <property name="visible">True</property>
                                                 <property name="can_focus">False</property>
@@ -904,6 +893,17 @@ Model B</property>
                                               </object>
                                               <packing>
                                                 <property name="expand">False</property>
+                                                <property name="fill">True</property>
+                                                <property name="position">0</property>
+                                              </packing>
+                                            </child>
+                                            <child>
+                                              <object class="GtkLabel" id="label30">
+                                                <property name="visible">True</property>
+                                                <property name="can_focus">False</property>
+                                              </object>
+                                              <packing>
+                                                <property name="expand">True</property>
                                                 <property name="fill">True</property>
                                                 <property name="position">1</property>
                                               </packing>
@@ -1061,17 +1061,6 @@ Model B</property>
                                                     <property name="visible">True</property>
                                                     <property name="can_focus">False</property>
                                                     <child>
-                                                      <object class="GtkLabel" id="label75">
-                                                        <property name="visible">True</property>
-                                                        <property name="can_focus">False</property>
-                                                      </object>
-                                                      <packing>
-                                                        <property name="expand">True</property>
-                                                        <property name="fill">True</property>
-                                                        <property name="position">0</property>
-                                                      </packing>
-                                                    </child>
-                                                    <child>
                                                       <object class="GtkLabel" id="label55">
                                                         <property name="visible">True</property>
                                                         <property name="can_focus">False</property>
@@ -1083,6 +1072,17 @@ Model B</property>
                                                       <packing>
                                                         <property name="expand">False</property>
                                                         <property name="fill">False</property>
+                                                        <property name="position">0</property>
+                                                      </packing>
+                                                    </child>
+                                                    <child>
+                                                      <object class="GtkLabel" id="label39">
+                                                        <property name="visible">True</property>
+                                                        <property name="can_focus">False</property>
+                                                      </object>
+                                                      <packing>
+                                                        <property name="expand">True</property>
+                                                        <property name="fill">True</property>
                                                         <property name="position">1</property>
                                                       </packing>
                                                     </child>
@@ -1114,17 +1114,6 @@ Model B</property>
                                                     <property name="visible">True</property>
                                                     <property name="can_focus">False</property>
                                                     <child>
-                                                      <object class="GtkLabel" id="label88">
-                                                        <property name="visible">True</property>
-                                                        <property name="can_focus">False</property>
-                                                      </object>
-                                                      <packing>
-                                                        <property name="expand">True</property>
-                                                        <property name="fill">True</property>
-                                                        <property name="position">0</property>
-                                                      </packing>
-                                                    </child>
-                                                    <child>
                                                       <object class="GtkLabel" id="label87">
                                                         <property name="visible">True</property>
                                                         <property name="can_focus">False</property>
@@ -1132,6 +1121,17 @@ Model B</property>
                                                       </object>
                                                       <packing>
                                                         <property name="expand">False</property>
+                                                        <property name="fill">True</property>
+                                                        <property name="position">0</property>
+                                                      </packing>
+                                                    </child>
+                                                    <child>
+                                                      <object class="GtkLabel" id="label40">
+                                                        <property name="visible">True</property>
+                                                        <property name="can_focus">False</property>
+                                                      </object>
+                                                      <packing>
+                                                        <property name="expand">True</property>
                                                         <property name="fill">True</property>
                                                         <property name="position">1</property>
                                                       </packing>
@@ -1160,17 +1160,6 @@ Model B</property>
                                                     <property name="visible">True</property>
                                                     <property name="can_focus">False</property>
                                                     <child>
-                                                      <object class="GtkLabel" id="label29">
-                                                        <property name="visible">True</property>
-                                                        <property name="can_focus">False</property>
-                                                      </object>
-                                                      <packing>
-                                                        <property name="expand">True</property>
-                                                        <property name="fill">True</property>
-                                                        <property name="position">0</property>
-                                                      </packing>
-                                                    </child>
-                                                    <child>
                                                       <object class="GtkLabel" id="label16">
                                                         <property name="visible">True</property>
                                                         <property name="can_focus">False</property>
@@ -1178,6 +1167,17 @@ Model B</property>
                                                       </object>
                                                       <packing>
                                                         <property name="expand">False</property>
+                                                        <property name="fill">True</property>
+                                                        <property name="position">0</property>
+                                                      </packing>
+                                                    </child>
+                                                    <child>
+                                                      <object class="GtkLabel" id="label41">
+                                                        <property name="visible">True</property>
+                                                        <property name="can_focus">False</property>
+                                                      </object>
+                                                      <packing>
+                                                        <property name="expand">True</property>
                                                         <property name="fill">True</property>
                                                         <property name="position">1</property>
                                                       </packing>
@@ -1206,17 +1206,6 @@ Model B</property>
                                                     <property name="visible">True</property>
                                                     <property name="can_focus">False</property>
                                                     <child>
-                                                      <object class="GtkLabel" id="label73">
-                                                        <property name="visible">True</property>
-                                                        <property name="can_focus">False</property>
-                                                      </object>
-                                                      <packing>
-                                                        <property name="expand">True</property>
-                                                        <property name="fill">True</property>
-                                                        <property name="position">0</property>
-                                                      </packing>
-                                                    </child>
-                                                    <child>
                                                       <object class="GtkLabel" id="label53">
                                                         <property name="visible">True</property>
                                                         <property name="can_focus">False</property>
@@ -1225,6 +1214,17 @@ Model B</property>
                                                       <packing>
                                                         <property name="expand">False</property>
                                                         <property name="fill">False</property>
+                                                        <property name="position">0</property>
+                                                      </packing>
+                                                    </child>
+                                                    <child>
+                                                      <object class="GtkLabel" id="label43">
+                                                        <property name="visible">True</property>
+                                                        <property name="can_focus">False</property>
+                                                      </object>
+                                                      <packing>
+                                                        <property name="expand">True</property>
+                                                        <property name="fill">True</property>
                                                         <property name="position">1</property>
                                                       </packing>
                                                     </child>
@@ -1255,17 +1255,6 @@ Model B</property>
                                                     <property name="visible">True</property>
                                                     <property name="can_focus">False</property>
                                                     <child>
-                                                      <object class="GtkLabel" id="label74">
-                                                        <property name="visible">True</property>
-                                                        <property name="can_focus">False</property>
-                                                      </object>
-                                                      <packing>
-                                                        <property name="expand">True</property>
-                                                        <property name="fill">True</property>
-                                                        <property name="position">0</property>
-                                                      </packing>
-                                                    </child>
-                                                    <child>
                                                       <object class="GtkLabel" id="label54">
                                                         <property name="visible">True</property>
                                                         <property name="can_focus">False</property>
@@ -1274,6 +1263,17 @@ Model B</property>
                                                       <packing>
                                                         <property name="expand">False</property>
                                                         <property name="fill">False</property>
+                                                        <property name="position">0</property>
+                                                      </packing>
+                                                    </child>
+                                                    <child>
+                                                      <object class="GtkLabel" id="label74">
+                                                        <property name="visible">True</property>
+                                                        <property name="can_focus">False</property>
+                                                      </object>
+                                                      <packing>
+                                                        <property name="expand">True</property>
+                                                        <property name="fill">True</property>
                                                         <property name="position">1</property>
                                                       </packing>
                                                     </child>
@@ -1331,17 +1331,6 @@ Model B</property>
                                                     <property name="visible">True</property>
                                                     <property name="can_focus">False</property>
                                                     <child>
-                                                      <object class="GtkLabel" id="label91">
-                                                        <property name="visible">True</property>
-                                                        <property name="can_focus">False</property>
-                                                      </object>
-                                                      <packing>
-                                                        <property name="expand">True</property>
-                                                        <property name="fill">True</property>
-                                                        <property name="position">0</property>
-                                                      </packing>
-                                                    </child>
-                                                    <child>
                                                       <object class="GtkLabel" id="label90">
                                                         <property name="visible">True</property>
                                                         <property name="can_focus">False</property>
@@ -1349,6 +1338,17 @@ Model B</property>
                                                       </object>
                                                       <packing>
                                                         <property name="expand">False</property>
+                                                        <property name="fill">True</property>
+                                                        <property name="position">0</property>
+                                                      </packing>
+                                                    </child>
+                                                    <child>
+                                                      <object class="GtkLabel" id="label45">
+                                                        <property name="visible">True</property>
+                                                        <property name="can_focus">False</property>
+                                                      </object>
+                                                      <packing>
+                                                        <property name="expand">True</property>
                                                         <property name="fill">True</property>
                                                         <property name="position">1</property>
                                                       </packing>
@@ -1376,17 +1376,6 @@ Model B</property>
                                                     <property name="visible">True</property>
                                                     <property name="can_focus">False</property>
                                                     <child>
-                                                      <object class="GtkLabel" id="label51">
-                                                        <property name="visible">True</property>
-                                                        <property name="can_focus">False</property>
-                                                      </object>
-                                                      <packing>
-                                                        <property name="expand">True</property>
-                                                        <property name="fill">False</property>
-                                                        <property name="position">0</property>
-                                                      </packing>
-                                                    </child>
-                                                    <child>
                                                       <object class="GtkLabel" id="label52">
                                                         <property name="visible">True</property>
                                                         <property name="can_focus">False</property>
@@ -1394,6 +1383,17 @@ Model B</property>
                                                       </object>
                                                       <packing>
                                                         <property name="expand">False</property>
+                                                        <property name="fill">True</property>
+                                                        <property name="position">0</property>
+                                                      </packing>
+                                                    </child>
+                                                    <child>
+                                                      <object class="GtkLabel" id="label47">
+                                                        <property name="visible">True</property>
+                                                        <property name="can_focus">False</property>
+                                                      </object>
+                                                      <packing>
+                                                        <property name="expand">True</property>
                                                         <property name="fill">True</property>
                                                         <property name="position">1</property>
                                                       </packing>
@@ -1421,17 +1421,6 @@ Model B</property>
                                                     <property name="visible">True</property>
                                                     <property name="can_focus">False</property>
                                                     <child>
-                                                      <object class="GtkLabel" id="label84">
-                                                        <property name="visible">True</property>
-                                                        <property name="can_focus">False</property>
-                                                      </object>
-                                                      <packing>
-                                                        <property name="expand">True</property>
-                                                        <property name="fill">False</property>
-                                                        <property name="position">0</property>
-                                                      </packing>
-                                                    </child>
-                                                    <child>
                                                       <object class="GtkLabel" id="label85">
                                                         <property name="visible">True</property>
                                                         <property name="can_focus">False</property>
@@ -1439,6 +1428,17 @@ Model B</property>
                                                       </object>
                                                       <packing>
                                                         <property name="expand">False</property>
+                                                        <property name="fill">True</property>
+                                                        <property name="position">0</property>
+                                                      </packing>
+                                                    </child>
+                                                    <child>
+                                                      <object class="GtkLabel" id="label51">
+                                                        <property name="visible">True</property>
+                                                        <property name="can_focus">False</property>
+                                                      </object>
+                                                      <packing>
+                                                        <property name="expand">True</property>
                                                         <property name="fill">True</property>
                                                         <property name="position">1</property>
                                                       </packing>
@@ -1466,17 +1466,6 @@ Model B</property>
                                                     <property name="visible">True</property>
                                                     <property name="can_focus">False</property>
                                                     <child>
-                                                      <object class="GtkLabel" id="label89">
-                                                        <property name="visible">True</property>
-                                                        <property name="can_focus">False</property>
-                                                      </object>
-                                                      <packing>
-                                                        <property name="expand">True</property>
-                                                        <property name="fill">True</property>
-                                                        <property name="position">0</property>
-                                                      </packing>
-                                                    </child>
-                                                    <child>
                                                       <object class="GtkLabel" id="label35">
                                                         <property name="visible">True</property>
                                                         <property name="can_focus">False</property>
@@ -1485,6 +1474,17 @@ Model B</property>
                                                       <packing>
                                                         <property name="expand">False</property>
                                                         <property name="fill">False</property>
+                                                        <property name="position">0</property>
+                                                      </packing>
+                                                    </child>
+                                                    <child>
+                                                      <object class="GtkLabel" id="label73">
+                                                        <property name="visible">True</property>
+                                                        <property name="can_focus">False</property>
+                                                      </object>
+                                                      <packing>
+                                                        <property name="expand">True</property>
+                                                        <property name="fill">True</property>
                                                         <property name="position">1</property>
                                                       </packing>
                                                     </child>

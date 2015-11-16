@@ -519,11 +519,11 @@ class GUI:
 					yield True
 			yield True
 
-		print("Rejected C: {0}".format(counter_of_rejected_c))
-		print("Rejected id: {0}".format(counter_of_rejected_id))
-		print("Rejected o: {0}".format(counter_of_rejected_o))
-		print("Rejected H: {0}".format(counter_of_rejected_h))
-		print("Passed L1: {0}".format(counter_of_passed))
+		print("Rejected (Compartmets): {0}".format(counter_of_rejected_c))
+		print("Rejected (id): {0}".format(counter_of_rejected_id))
+		print("Rejected (other atoms): {0}".format(counter_of_rejected_o))
+		print("Rejected (to many Hydrogen atoms): {0}".format(counter_of_rejected_h))
+		# print("Passed L1: {0}".format(counter_of_passed))
 
 
 
@@ -532,10 +532,10 @@ class GUI:
 		# print("Passed L1 (by len()): {0}".format(len(first_list)))
 
 
-		print("Hello profiler")
-		import cProfile, pstats
-		pr = cProfile.Profile()
-		pr.enable()
+		# print("Hello profiler")
+		# import cProfile, pstats
+		# pr = cProfile.Profile()
+		# pr.enable()
 
 
 		total_steps = len(first_list)
@@ -559,7 +559,7 @@ class GUI:
 				best_score_row = y
 			if best_score_row not in second_list:
 				second_list.append(best_score_row)
-			print("F {0}/{1}".format(i,len(first_list)))
+			# print("F {0}/{1}".format(i,len(first_list)))
 			i+=1
 
 
@@ -574,12 +574,12 @@ class GUI:
 				gui_update = 0
 				yield True
 
-		pr.disable()
-		f = open('x.prof', 'w')
-		sortby = 'cumulative'
-		pstats.Stats(pr, stream=f).strip_dirs().sort_stats(sortby).print_stats()
-		f.close()
-		print("Thank you profiler")
+		# pr.disable()
+		# f = open('x.prof', 'w')
+		# sortby = 'cumulative'
+		# pstats.Stats(pr, stream=f).strip_dirs().sort_stats(sortby).print_stats()
+		# f.close()
+		# print("Thank you profiler")
 
 
 		# At this point the Level 2 filtering is done. The next tast is to filter out weakest links in the other direction.
@@ -599,11 +599,11 @@ class GUI:
 				best_score_row = y
 			if best_score_row not in third_list:
 				third_list.append(best_score_row)
-			print("S {0}/{1}".format(i,len(second_list)))
+			# print("S {0}/{1}".format(i,len(second_list)))
 			i+=1
 
 
-		print("Levels passed (L1->L2->L3): {0}->{1}->{2}".format(len(first_list),len(second_list),len(third_list)))
+		print("Filtering levels passed (L1->L2->L3): {0}->{1}->{2}".format(len(first_list),len(second_list),len(third_list)))
 		# print("Passed L3 (by len()): {0}".format(len(third_list)))
 
 
@@ -752,6 +752,7 @@ class GUI:
 			something_changed = False
 			for pair in liststore:
 				if pair[col_appr]: ## the 5. is for approve
+					# print("{0}".format(r_i))
 					s_i = 0
 					for s in r.substrates:
 						if s.ref == pair[col_idB]: ## 9 is for id_b
@@ -770,6 +771,7 @@ class GUI:
 						pass
 			if something_changed:
 				self.reconciled_reactions_b.append(self.model_b.reactions[r_i])
+				print("{0}".format(self.model_b.reactions[r_i]))
 
 			r_i+=1
 
@@ -798,8 +800,8 @@ class GUI:
 				if pair[col_appr]: ## the 5. is for approve
 					s_i = 0
 					for s in r.substrates:
-						if s.ref == pair[col_idB]: ## 9 is for id_b
-							self.model_a.reactions[r_i].substrates[s_i].ref = pair[col_idB]+'_reconciled'
+						if s.ref == pair[col_idA]: ## 9 is for id_b 
+							self.model_a.reactions[r_i].substrates[s_i].ref = pair[col_idA]+'_reconciled'
 							self.model_a.reactions[r_i].substrates[s_i].reconciled = True
 							something_changed = True
 						s_i+=1
