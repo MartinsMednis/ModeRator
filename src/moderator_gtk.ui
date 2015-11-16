@@ -640,6 +640,7 @@ Model B</property>
                     <property name="can_focus">True</property>
                     <property name="receives_default">True</property>
                     <property name="tooltip_text" translatable="yes">Go to ModeRator website</property>
+                    <property name="opacity">0.96999999999999997</property>
                     <property name="relief">none</property>
                     <property name="uri">http://biosystems.lv/index.php/software/moderator-2-x</property>
                   </object>
