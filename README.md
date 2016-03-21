@@ -1,3 +1,5 @@
+![Image Alt](http://biosystems.lv/images/software/moderator2/moderator_screenshot.jpg)
+
 # moderator
 ModeRator - The Model Comparator is aiming to help modelers to identify common elements in different models that cannot be detected using other modeling tools.
 
