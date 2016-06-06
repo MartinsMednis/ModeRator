@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 # main.py
-# Copyleft (CC) 2013 martins <martins.mednis@llu.lv>
+# Copyleft (CC) 2016 martins <martins.mednis@llu.lv>
 #
 # ModeRator-gtk is free software: you can redistribute it and/or modify it
 # under the terms of the GNU General Public License as published by the
@@ -24,17 +24,8 @@ from gi.repository import GObject, Gtk #, GdkPixbuf, Gdk
 
 import os, sys, copy
 
-##os.environ['PYTHONPATH'] = '/usr/local/lib64/python2.7/site-packages/libsbml'
-#sys.path.append('/usr/local/lib64/python2.7/site-packages/libsbml')
-
-#from threading import Thread
 
 
-
-
-
-
-## first we try to import all required modules
 missing_modules2 = []
 try:
 	import xlrd
@@ -47,12 +38,6 @@ try:
 except ImportError:
 	missing_modules2.append("libSBML")
 
-
-try:
-	## for string distance calculation
-	import Levenshtein
-except ImportError:
-	missing_modules2.append("Levenshtein")
 
 
 
@@ -168,7 +153,7 @@ class GUI:
 
 	def file_open_dialog(self, window):
 		filechooserdialog = Gtk.FileChooserDialog("Select a File", None, Gtk.FileChooserAction.OPEN, (Gtk.STOCK_CANCEL, Gtk.ResponseType.CANCEL, Gtk.STOCK_OPEN, Gtk.ResponseType.OK))
-		filechooserdialog.set_current_folder("/home/martins/workspace/python/models")
+		filechooserdialog.set_current_folder("~/")
 
 		filefilter = Gtk.FileFilter()
 		filefilter.set_name("Supported")
@@ -209,7 +194,7 @@ class GUI:
 
 	def file_save_dialog(self, window):
 		filechooserdialog = Gtk.FileChooserDialog("Select a File", None, Gtk.FileChooserAction.SAVE, (Gtk.STOCK_CANCEL, Gtk.ResponseType.CANCEL, Gtk.STOCK_SAVE, Gtk.ResponseType.OK))
-		filechooserdialog.set_current_folder("/home/martins/workspace/python/moderator3/")
+		filechooserdialog.set_current_folder("~/")
 
 		filefilter = Gtk.FileFilter()
 		filefilter.set_name("SBML")
@@ -237,11 +222,11 @@ class GUI:
 		#response = dialog.run()
 		new_path = ''
 		if response == Gtk.ResponseType.OK:
-			print "Open clicked"
-			print "File: " + filechooserdialog.get_filename()
+			print("Open clicked")
+			print("File: " + filechooserdialog.get_filename())
 			new_path = filechooserdialog.get_filename()
 		elif response == Gtk.ResponseType.CANCEL:
-			print "Cancel clicked"
+			print("Cancel clicked")
 		filechooserdialog.destroy()
 		return new_path
 	###################################################################
