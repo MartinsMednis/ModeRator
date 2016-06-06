@@ -14,51 +14,14 @@ You might need to have RPM Fusion repository enabled.
 
     dnf install python-Levenshtein python-xlrd libsbml python-libsbml
 
-## How to install depencencies on Ubuntu
-### Step 1 - install compiler and compile libSBML with Python bindings.
+## How to install depencencies on Ubuntu 16.04
+Since the previous version the installation is greatly simplified. No need to `sudo`. The following commands will install the required dependencies:
 
-First, install compiler.
+    pip install --user pyparsing
+    pip install --user xlrd
+    pip install --user python-libsbml
 
-    apt-get install build-essential
-    apt-get install python2.7-dev
-    apt-get install libxml2-dev
-    apt-get install swig
+## Run ModeRator
 
-Dowload the source code from http://sourceforge.net/projects/sbml/
-
-    cd into the unzipped directory of libsbml source code.
-    cd libSBML-5.9.0-Source/
-    ./configure --with-python
-    make
-    make install
-
-Make libSBML accessible to Python. The actual path may differ.
-
-    export PYTHONPATH=/usr/local/lib64/python2.7/site-packages/
-
-### Step 2 - install pylevenshtein and xlrd libraries
-
-Download pylevenshtein from http://code.google.com/p/pylevenshtein/. Extract it!
-
-Install pylevenshtein:
-
-    cd python-Levenshtein-0.10.1
-    python setup.py build
-    python setup.py install
-
-Download xlrd from https://pypi.python.org/pypi/xlrd. Extract it!
-
-Install xlrd:
-
-    cd xlrd-0.9.2
-    python setup.py build
-    python setup.py install
-
-### Step 3 - install pyparsing
-
-    apt-get install python-pyparsing
-
-### Step 4 - run ModeRator
-
-    cd moderator-gtk/src/
+    cd moderator/src
     ./moderator_gtk.py
