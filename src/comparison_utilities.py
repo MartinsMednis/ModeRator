@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 
 import difflib
-import Levenshtein
+# import Levenshtein
+from mymodlevenshtein import mymodlevenshtein
 import itertools, string
 from chemicalFormulasC import split_chemical_formula
 from mrtsound import *
@@ -15,7 +16,8 @@ def Dscore(mA_name, mB_name, **kwargs):
 	L = min(len(str(mA_name)), len(str(mB_name)))
 
 	R = difflib.SequenceMatcher(None, mA_name, mB_name).ratio()
-	E = Levenshtein.distance(mA_name, mB_name)
+	# E = Levenshtein.distance(mA_name, mB_name)
+	E = mymodlevenshtein(mA_name, mB_name,1,1)
 
 	# previously used equation
 	# cscore = (1+(float(1) - ratio)*d_distance)*float(formula_similarity[0])
