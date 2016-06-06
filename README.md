@@ -3,7 +3,7 @@
 ![Image Alt](https://github.com/MartinsMednis/ModeRator/blob/master/screenshot02.jpg)
 
 # ModeRator
-ModeRator - The Model Comparator is aiming to help modelers to identify common elements in different models.
+ModeRator - The Model Comparator is aiming to help modelers to identify common metabolites and reactions in different models.
 
 
 ## How to install depencencies on Ubuntu 16.04 and Fedora 23
