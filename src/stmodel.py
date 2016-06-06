@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 ##
-##   Author: Martins Mednis, 2011. This program compares stoichiometric models
+##   Author: Martins Mednis, 2016. This program compares stoichiometric models
 ##
 ##    This program is free software: you can redistribute it and/or modify
 ##    it under the terms of the GNU General Public License as published by
@@ -63,16 +63,10 @@ try:
 	import itertools, difflib, subprocess, math
 	#import jellyfish
 except ImportError:
-	print("\tImportant modules are missing. \n\tPlease run ./setup.py to investigate the situation")
+	print("\tImportant modules are missing.")
 	exit()
 
 
-#graph analysis
-# try:
-# 	import networkx as nx
-# 	#import matplotlib.pyplot as plt
-# except ImportError:
-# 	missing_modules.append("networkx and matplotlib")
 
 
 def is_numeric(s):
@@ -1113,12 +1107,7 @@ class reaction(object):
 
 		equal_normal = 0
 		equal_reverse = 0
-		## trivial length check, if lenght doesn't match, don't go further
-		## if there are no substrates or products, don't compare, just say no.
-		#if (len(self.substrates) == 0) or (len(other.substrates) == 0):
-		#	return 0
-		#if (len(self.products) == 0) or (len(other.products) == 0):
-		#	return 0
+
 
 		do_it = True
 		do_it_right = True
@@ -1201,11 +1190,6 @@ class reaction(object):
 			for i in reversed(deletables):
 				del reactants[i]
 
-##			for i, val in enumerate(reactants):
-##				if reactants[i].name in list_of_removables:
-##					del reactants[i]
-##				elif reactants[i].neutral in list_of_removables:
-##					del reactants[i]
 			return reactants
 		self.substrates = subtract_from_side(self.substrates,list_of_removables)
 		self.products = subtract_from_side(self.products,list_of_removables)
